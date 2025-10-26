@@ -40,15 +40,33 @@ app.get('/status', (req, res) => {
   });
 });
 
-// Schedule scraper to run every hour
-cron.schedule('0 * * * *', () => {
+// Get device IP for public access
+app.get('/ip', (req, res) => {
+  const clientIP = req.ip || req.connection.remoteAddress;
+  const serverIP = req.socket.localAddress;
+  
+  res.json({
+    clientIP: clientIP,
+    serverIP: serverIP,
+    accessURL: `http://${serverIP}:${PORT}`,
+    endpoints: {
+      health: `http://${serverIP}:${PORT}/health`,
+      status: `http://${serverIP}:${PORT}/status`,
+      scrape: `http://${serverIP}:${PORT}/scrape`
+    }
+  });
+});
+
+// Schedule scraper to run every 5 minutes
+cron.schedule('*/5 * * * *', () => {
   console.log('Running scheduled price scraper...');
   runPriceScraper();
 });
 
-app.listen(PORT, () => {
+app.listen(PORT, '0.0.0.0', () => {
   console.log(`Price Scraper Service running on port ${PORT}`);
-  console.log('Scheduled to run every hour');
+  console.log(`Access from other devices: http://YOUR_IP:${PORT}`);
+  console.log('Scheduled to run every 5 minutes');
   
   // Run once on startup
   setTimeout(() => {
