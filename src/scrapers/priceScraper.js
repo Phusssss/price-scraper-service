@@ -241,6 +241,7 @@ const scrapeBangGiaNongSan = async () => {
 };
 
 import { collection, getDocs, deleteDoc, addDoc, writeBatch } from 'firebase/firestore';
+import { sendPushNotification } from '../services/fcmService.js';
 
 const clearCollection = async (collectionName) => {
   try {
@@ -271,12 +272,70 @@ const saveToFirebase = async (data, collectionName) => {
   }
 };
 
+const checkPriceAlerts = async (newPrices) => {
+  try {
+    console.log(`🔍 Checking price alerts...`);
+    const alertsSnapshot = await getDocs(collection(db, 'price_alerts'));
+    const usersSnapshot = await getDocs(collection(db, 'users'));
+    
+    console.log(`📊 Found ${alertsSnapshot.docs.length} alerts and ${usersSnapshot.docs.length} users`);
+    
+    const users = {};
+    usersSnapshot.docs.forEach(doc => {
+      const userData = doc.data();
+      users[doc.id] = userData;
+      console.log(`👤 User ${doc.id}: ${userData.email || 'no email'}, FCM: ${userData.fcmToken ? 'YES' : 'NO'}`);
+    });
+    
+    for (const alertDoc of alertsSnapshot.docs) {
+      const alert = alertDoc.data();
+      console.log(`🚨 Alert: ${alert.productName} at ${alert.market} (${alert.alertType} ${alert.targetPrice})`);
+      if (!alert.isActive) {
+        console.log(`⏸️ Alert inactive, skipping`);
+        continue;
+      }
+      
+      const matchingPrice = newPrices.find(price => 
+        price.productName.includes(alert.productName) && 
+        price.market === alert.market
+      );
+      
+      if (matchingPrice) {
+        let shouldAlert = false;
+        
+        if (alert.alertType === 'above' && matchingPrice.currentPrice >= alert.targetPrice) {
+          shouldAlert = true;
+        } else if (alert.alertType === 'below' && matchingPrice.currentPrice <= alert.targetPrice) {
+          shouldAlert = true;
+        }
+        
+        if (shouldAlert) {
+          console.log(`🚨 Alert triggered: ${alert.productName} at ${matchingPrice.currentPrice}`);
+          
+          // Send push notification if user has FCM token
+          const user = users[alert.userId];
+          if (user?.fcmToken) {
+            await sendPushNotification(user.fcmToken, alert, matchingPrice.currentPrice);
+          }
+        }
+      }
+    }
+  } catch (error) {
+    console.error('Error checking alerts:', error);
+  }
+};
+
 export const runPriceScraper = async () => {
   try {
-    console.log('Starting price scraper...');
+    console.log('🚀 Starting price scraper...');
     
+    console.log('📊 Scraping WebGia coffee prices...');
     const webgiaPrices = await scrapeWebGiaCoffee();
+    console.log(`✅ WebGia: ${webgiaPrices.length} prices`);
+    
+    console.log('🌾 Scraping BangGiaNongSan agricultural prices...');
     const banggiaPrices = await scrapeBangGiaNongSan();
+    console.log(`✅ BangGiaNongSan: ${banggiaPrices.length} prices`);
     
     const allPrices = [...webgiaPrices, ...banggiaPrices];
     
@@ -293,6 +352,9 @@ export const runPriceScraper = async () => {
     if (allPrices.length > 0) {
       await clearCollection('prices');
       await saveToFirebase(allPrices, 'prices');
+      
+      // Check price alerts after updating prices
+      await checkPriceAlerts(allPrices);
     }
     
     console.log(`Scraper completed - ${allPrices.length} total prices (${webgiaPrices.length} coffee + ${banggiaPrices.length} agricultural)`);
@@ -303,7 +365,14 @@ export const runPriceScraper = async () => {
   }
 };
 
-// Run if called directly
-if (import.meta.url === `file://${process.argv[1]}`) {
-  runPriceScraper();
-}
+// Auto-run when file is executed directly
+console.log('🚀 Starting price scraper directly...');
+runPriceScraper()
+  .then(result => {
+    console.log('✅ Scraper completed:', result);
+    process.exit(0);
+  })
+  .catch(error => {
+    console.error('❌ Scraper failed:', error);
+    process.exit(1);
+  });
