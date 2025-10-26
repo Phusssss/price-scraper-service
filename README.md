@@ -29,6 +29,23 @@ docker-compose logs -f
 docker-compose down
 ```
 
+## Termux Android Usage
+
+```bash
+# Setup Termux
+pkg update && pkg upgrade
+pkg install nodejs npm git
+
+# Clone and run
+git clone <repository-url>
+cd price-scraper-service
+npm install
+npm start
+
+# Or use startup script
+npm run termux
+```
+
 ## Manual Usage
 
 ```bash
