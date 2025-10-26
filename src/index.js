@@ -57,8 +57,8 @@ app.get('/ip', (req, res) => {
   });
 });
 
-// Schedule scraper to run every 5 minutes
-cron.schedule('*/5 * * * *', () => {
+// Schedule scraper to run every 6 hours
+cron.schedule('0 */6 * * *', () => {
   console.log('Running scheduled price scraper...');
   runPriceScraper();
 });
@@ -66,7 +66,7 @@ cron.schedule('*/5 * * * *', () => {
 app.listen(PORT, '0.0.0.0', () => {
   console.log(`Price Scraper Service running on port ${PORT}`);
   console.log(`Access from other devices: http://YOUR_IP:${PORT}`);
-  console.log('Scheduled to run every 5 minutes');
+  console.log('Scheduled to run every 6 hours');
   
   // Run once on startup
   setTimeout(() => {
