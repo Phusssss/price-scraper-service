@@ -1,0 +1,25 @@
+{
+  "name": "price-scraper-service",
+  "version": "1.0.0",
+  "description": "Agricultural price scraping service",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "scrape": "node src/scrapers/priceScraper.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0-rc.12",
+    "firebase": "^10.7.1",
+    "node-cron": "^3.0.3",
+    "cors": "^2.8.5",
+    "helmet": "^7.1.0",
+    "compression": "^1.7.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
