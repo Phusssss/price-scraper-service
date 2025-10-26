@@ -366,13 +366,15 @@ export const runPriceScraper = async () => {
 };
 
 // Auto-run when file is executed directly
-console.log('🚀 Starting price scraper directly...');
-runPriceScraper()
-  .then(result => {
-    console.log('✅ Scraper completed:', result);
-    process.exit(0);
-  })
-  .catch(error => {
-    console.error('❌ Scraper failed:', error);
-    process.exit(1);
-  });
+if (import.meta.url === `file://${process.argv[1]}`) {
+  console.log('🚀 Starting price scraper directly...');
+  runPriceScraper()
+    .then(result => {
+      console.log('✅ Scraper completed:', result);
+      process.exit(0);
+    })
+    .catch(error => {
+      console.error('❌ Scraper failed:', error);
+      process.exit(1);
+    });
+}
