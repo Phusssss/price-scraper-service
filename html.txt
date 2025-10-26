@@ -1,0 +1,2656 @@
+
+<!DOCTYPE html>
+<html lang="en-US" class="loading-site no-js">
+<head>
+	<meta charset="UTF-8" />
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="https://banggianongsan.com/xmlrpc.php" />
+
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<!-- This site is optimized with the Yoast SEO plugin v23.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Bảng giá nông sản hôm nay</title>
+	<meta name="description" content="Cập nhật bảng giá nông sản mới nhất hôm nay - Giá nông sản cập nhật liên tục theo thời gian thực - Tham khảo ngay!" />
+	<link rel="canonical" href="https://banggianongsan.com/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Bảng giá nông sản hôm nay" />
+	<meta property="og:description" content="Cập nhật bảng giá nông sản mới nhất hôm nay - Giá nông sản cập nhật liên tục theo thời gian thực - Tham khảo ngay!" />
+	<meta property="og:url" content="https://banggianongsan.com/" />
+	<meta property="og:site_name" content="Bảng giá nông sản hôm nay" />
+	<meta property="article:modified_time" content="2025-10-23T16:58:46+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://banggianongsan.com/","url":"https://banggianongsan.com/","name":"Bảng giá nông sản hôm nay","isPartOf":{"@id":"https://banggianongsan.com/#website"},"datePublished":"2024-08-08T07:35:30+00:00","dateModified":"2025-10-23T16:58:46+00:00","description":"Cập nhật bảng giá nông sản mới nhất hôm nay - Giá nông sản cập nhật liên tục theo thời gian thực - Tham khảo ngay!","breadcrumb":{"@id":"https://banggianongsan.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://banggianongsan.com/"]}]},{"@type":"BreadcrumbList","@id":"https://banggianongsan.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://banggianongsan.com/#website","url":"https://banggianongsan.com/","name":"Bảng giá nông sản hôm nay","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://banggianongsan.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<meta name="google-site-verification" content="ZIuy2MEr_CgMFhocPvyxrfH59yS901XoCEUKtLV3qXg" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='prefetch' href='https://banggianongsan.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=89ac940c4841291ea8d6' />
+<link rel='prefetch' href='https://banggianongsan.com/wp-content/themes/flatsome/assets/js/chunk.slider.js?ver=3.17.6' />
+<link rel='prefetch' href='https://banggianongsan.com/wp-content/themes/flatsome/assets/js/chunk.popups.js?ver=3.17.6' />
+<link rel='prefetch' href='https://banggianongsan.com/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.17.6' />
+<link rel="alternate" type="application/rss+xml" title="Bảng giá nông sản hôm nay &raquo; Feed" href="https://banggianongsan.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Bảng giá nông sản hôm nay &raquo; Comments Feed" href="https://banggianongsan.com/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/banggianongsan.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.3"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,161;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px;--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color)}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<link rel='stylesheet' id='flatsome-main-css' href='https://banggianongsan.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.17.6' type='text/css' media='all' />
+<style id='flatsome-main-inline-css' type='text/css'>
+@font-face {
+				font-family: "fl-icons";
+				font-display: block;
+				src: url(https://banggianongsan.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot?v=3.17.6);
+				src:
+					url(https://banggianongsan.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot#iefix?v=3.17.6) format("embedded-opentype"),
+					url(https://banggianongsan.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2?v=3.17.6) format("woff2"),
+					url(https://banggianongsan.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf?v=3.17.6) format("truetype"),
+					url(https://banggianongsan.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff?v=3.17.6) format("woff"),
+					url(https://banggianongsan.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg?v=3.17.6#fl-icons) format("svg");
+			}
+</style>
+<link rel='stylesheet' id='flatsome-style-css' href='https://banggianongsan.com/wp-content/themes/flatsome-child/style.css?ver=3.17.6' type='text/css' media='all' />
+<script type="text/javascript" src="https://banggianongsan.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://banggianongsan.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://banggianongsan.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://banggianongsan.com/wp-json/wp/v2/pages/5" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://banggianongsan.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.3" />
+<link rel='shortlink' href='https://banggianongsan.com/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://banggianongsan.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbanggianongsan.com%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://banggianongsan.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbanggianongsan.com%2F&#038;format=xml" />
+<style>.bg{opacity: 0; transition: opacity 1s; -webkit-transition: opacity 1s;} .bg-loaded{opacity: 1;}</style><link rel="icon" href="https://banggianongsan.com/wp-content/uploads/2025/02/cropped-3148e777-e1b1-4852-9096-ef2ed77b9198-32x32.webp" sizes="32x32" />
+<link rel="icon" href="https://banggianongsan.com/wp-content/uploads/2025/02/cropped-3148e777-e1b1-4852-9096-ef2ed77b9198-192x192.webp" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://banggianongsan.com/wp-content/uploads/2025/02/cropped-3148e777-e1b1-4852-9096-ef2ed77b9198-180x180.webp" />
+<meta name="msapplication-TileImage" content="https://banggianongsan.com/wp-content/uploads/2025/02/cropped-3148e777-e1b1-4852-9096-ef2ed77b9198-270x270.webp" />
+<style id="custom-css" type="text/css">:root {--primary-color: #333333;}.container-width, .full-width .ubermenu-nav, .container, .row{max-width: 1170px}.row.row-collapse{max-width: 1140px}.row.row-small{max-width: 1162.5px}.row.row-large{max-width: 1200px}.header-main{height: 90px}#logo img{max-height: 90px}#logo{width:200px;}.header-bottom{min-height: 64px}.header-top{min-height: 30px}.transparent .header-main{height: 90px}.transparent #logo img{max-height: 90px}.has-transparent + .page-title:first-of-type,.has-transparent + #main > .page-title,.has-transparent + #main > div > .page-title,.has-transparent + #main .page-header-wrapper:first-of-type .page-title{padding-top: 170px;}.header.show-on-scroll,.stuck .header-main{height:70px!important}.stuck #logo img{max-height: 70px!important}.search-form{ width: 100%;}.header-bottom {background-color: #f1f1f1}@media (max-width: 549px) {.header-main{height: 70px}#logo img{max-height: 70px}}/* Color */.accordion-title.active, .has-icon-bg .icon .icon-inner,.logo a, .primary.is-underline, .primary.is-link, .badge-outline .badge-inner, .nav-outline > li.active> a,.nav-outline >li.active > a, .cart-icon strong,[data-color='primary'], .is-outline.primary{color: #333333;}/* Color !important */[data-text-color="primary"]{color: #333333!important;}/* Background Color */[data-text-bg="primary"]{background-color: #333333;}/* Background */.scroll-to-bullets a,.featured-title, .label-new.menu-item > a:after, .nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,button[type="submit"], .button.wc-forward:not(.checkout):not(.checkout-button), .button.submit-button, .button.primary:not(.is-outline),.featured-table .title,.is-outline:hover, .has-icon:hover .icon-label,.nav-dropdown-bold .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold > li > a:hover, .nav-dropdown-bold.dark .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold.dark > li > a:hover, .header-vertical-menu__opener ,.is-outline:hover, .tagcloud a:hover,.grid-tools a, input[type='submit']:not(.is-form), .box-badge:hover .box-text, input.button.alt,.nav-box > li > a:hover,.nav-box > li.active > a,.nav-pills > li.active > a ,.current-dropdown .cart-icon strong, .cart-icon:hover strong, .nav-line-bottom > li > a:before, .nav-line-grow > li > a:before, .nav-line > li > a:before,.banner, .header-top, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover, .button.primary:not(.is-outline), input[type='submit'].primary, input[type='submit'].primary, input[type='reset'].button, input[type='button'].primary, .badge-inner{background-color: #333333;}/* Border */.nav-vertical.nav-tabs > li.active > a,.scroll-to-bullets a.active,.nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,.accordion-title.active,.featured-table,.is-outline:hover, .tagcloud a:hover,blockquote, .has-border, .cart-icon strong:after,.cart-icon strong,.blockUI:before, .processing:before,.loading-spin, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover{border-color: #333333}.nav-tabs > li.active > a{border-top-color: #333333}.widget_shopping_cart_content .blockUI.blockOverlay:before { border-left-color: #333333 }.woocommerce-checkout-review-order .blockUI.blockOverlay:before { border-left-color: #333333 }/* Fill */.slider .flickity-prev-next-button:hover svg,.slider .flickity-prev-next-button:hover .arrow{fill: #333333;}/* Focus */.primary:focus-visible, .submit-button:focus-visible, button[type="submit"]:focus-visible { outline-color: #333333!important; }body{color: #000000}h1,h2,h3,h4,h5,h6,.heading-font{color: #000000;}body{font-size: 100%;}@media screen and (max-width: 549px){body{font-size: 100%;}}body{font-family: "Open Sans", sans-serif;}body {font-weight: 400;font-style: normal;}.nav > li > a {font-family: "Open Sans", sans-serif;}.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-family: "Open Sans", sans-serif;}.nav > li > a,.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-weight: 700;font-style: normal;}h1,h2,h3,h4,h5,h6,.heading-font, .off-canvas-center .nav-sidebar.nav-vertical > li > a{font-family: "Open Sans", sans-serif;}h1,h2,h3,h4,h5,h6,.heading-font,.banner h1,.banner h2 {font-weight: 700;font-style: normal;}.alt-font{font-family: "Dancing Script", sans-serif;}.alt-font {font-weight: 400!important;font-style: normal!important;}.nav-vertical-fly-out > li + li {border-top-width: 1px; border-top-style: solid;}.label-new.menu-item > a:after{content:"New";}.label-hot.menu-item > a:after{content:"Hot";}.label-sale.menu-item > a:after{content:"Sale";}.label-popular.menu-item > a:after{content:"Popular";}</style>		<style type="text/css" id="wp-custom-css">
+			table.tygia-table th:nth-child(3), table.tygia-table td:nth-child(3) {
+    display: none;
+}
+
+/* CSS cho các thẻ tiêu đề */
+h1 {
+  color: #003366;
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 1.2rem;
+  border-bottom: 2px solid #003366;
+  padding-bottom: 0.5rem;
+}
+
+h2 {
+  color: #004080;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  border-left: 4px solid #004080;
+  padding-left: 0.8rem;
+}
+
+h3 {
+  color: #0055a4;
+  font-size: 1.75rem;
+  font-weight: bold;
+  margin-top: 1.8rem;
+  margin-bottom: 0.8rem;
+}
+
+h4 {
+  color: #0066cc;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 1.5rem;
+  margin-bottom: 0.7rem;
+}
+
+h5 {
+  color: #0077e6;
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-top: 1.2rem;
+  margin-bottom: 0.6rem;
+}
+
+h6 {
+  color: #0088ff;
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+/* CSS cho các thẻ danh sách */
+ul {
+  color: #003366;
+  padding-left: 1.5rem;
+  margin: 1rem 0;
+}
+
+ol {
+  color: #003366;
+  padding-left: 1.5rem;
+  margin: 1rem 0;
+}
+
+li {
+  color: #003366;
+  margin-bottom: 0.5rem;
+  line-height: 1.5;
+}
+
+/* CSS cho thẻ bảng */
+table {
+  color: #003366;
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+  border: 1px solid #004080;
+}
+
+th {
+  background-color: #004080;
+  color: white;
+  font-weight: bold;
+  text-align: left;
+  padding: 0.8rem;
+  border: 1px solid #0055a4;
+	text-align: -webkit-center;
+}
+
+td {
+  padding: 0.8rem;
+  border: 1px solid #0055a4;
+}
+
+td:first-child{
+	padding-left: 10px;
+}
+
+/* Màu nền xen kẽ cho các hàng trong bảng */
+tr:nth-child(even) {
+  background-color: #e6f2ff;
+}
+
+/* Hiệu ứng hover cho các hàng trong bảng */
+tr:hover {
+  background-color: #cce6ff;
+}
+
+/* CSS cho các thẻ khác */
+p {
+  color: #003366;
+  line-height: 1.6;
+  margin: 1rem 0;
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #004080;
+}
+
+a.plain {
+    color: rgb(0 64 128);
+}
+
+blockquote {
+  border-left: 4px solid #004080;
+  padding-left: 1rem;
+  margin-left: 0;
+  color: #004080;
+  font-style: italic;
+}
+
+code {
+  background-color: #e6f2ff;
+  color: #003366;
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+  font-family: monospace;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: #003366;
+  margin: 2rem 0;
+}
+
+/*menu*/
+
+/* Enhanced Navigation Menu with Deep Blue Style */
+
+/* Main navigation container */
+#wide-nav {
+  background: linear-gradient(to right, #0a4b91, #1e73be, #0a4b91);
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+  border-bottom: 2px solid #005cb9;
+}
+
+/* Navigation list */
+.header-bottom-nav {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+/* Navigation items */
+.header-bottom-nav li {
+  margin: 0;
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+/* Navigation links */
+.header-bottom-nav li a.nav-top-link {
+  font-weight: 600;
+  font-size: 14px;
+  padding: 15px 18px;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+/* Hover effect for nav items */
+.header-bottom-nav li:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Active menu item */
+.header-bottom-nav li.active {
+  background-color: rgba(255, 255, 255, 0.15);
+}
+
+.header-bottom-nav li.active a.nav-top-link {
+  color: #fff;
+  font-weight: 700;
+}
+
+/* Underline animation effect */
+.header-bottom-nav li a.nav-top-link::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 3px;
+  bottom: 0;
+  left: 50%;
+  background-color: #fff;
+  transition: all 0.3s ease;
+  transform: translateX(-50%);
+}
+
+.header-bottom-nav li:hover a.nav-top-link::after,
+.header-bottom-nav li.active a.nav-top-link::after {
+  width: 70%;
+}
+
+/* Subtle glow effect on hover */
+.header-bottom-nav li:hover a.nav-top-link {
+  color: #ffffff;
+  text-shadow: 0 0 8px rgba(255, 255, 255, 0.5);
+}
+
+/* Container adjustments */
+#wide-nav .flex-row.container {
+  max-width: 100%;
+  padding: 0 20px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1100px) {
+  .header-bottom-nav li a.nav-top-link {
+    padding: 15px 12px;
+    font-size: 13px;
+  }
+}
+
+/* Add a subtle button effect */
+.header-bottom-nav li {
+  margin: 8px 4px;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+/* Add a slight pop-up effect on hover */
+.header-bottom-nav li:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+/* fooer */
+/* Enhanced Footer with Deep Blue Theme */
+
+/* Footer section styling */
+#section_1930741572 {
+  padding: 40px 0;
+  background-color: #0a4b91; /* Dark blue base color */
+}
+
+#section_1930741572 .section-bg-overlay {
+  background-color: rgba(0, 34, 77, 0.88); /* Darker blue overlay for better text visibility */
+}
+
+/* Footer headings */
+#section_1930741572 h3 {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  padding-bottom: 12px;
+  position: relative;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Add underline to headings */
+#section_1930741572 h3::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 60px;
+  height: 3px;
+  background: linear-gradient(to right, #1e73be, #4da6ff);
+}
+
+/* Footer list styling - using specific classes */
+.footer-menu--news,
+.footer-menu--tools,
+.ftmn--desktop-extend {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.footer-menu--news li,
+.footer-menu--tools li,
+.ftmn--desktop-extend li {
+  margin-bottom: 12px;
+  position: relative;
+  padding-left: 20px;
+  color: #e0e0e0;
+  font-size: 15px;
+  transition: all 0.3s ease;
+}
+
+/* Arrow icon before list items */
+.footer-menu--news li::before,
+.footer-menu--tools li::before,
+.ftmn--desktop-extend li::before {
+  content: '►';
+  font-size: 10px;
+  color: #4da6ff;
+  position: absolute;
+  left: 0;
+  top: 2px;
+}
+
+/* Hover effect */
+.footer-menu--news li:hover,
+.footer-menu--tools li:hover,
+.ftmn--desktop-extend li:hover {
+  color: #ffffff;
+  transform: translateX(5px);
+  cursor: pointer;
+}
+
+/* Bold text styling within footer */
+.ftmn--desktop-extend li strong {
+  font-weight: 600;
+  color: #ffffff;
+}
+
+/* Social icons styling */
+#section_1930741572 .social-icons {
+  margin-top: 25px;
+}
+
+#section_1930741572 .social-icons a {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.2);
+  color: #ffffff;
+  margin-right: 8px;
+  transition: all 0.3s ease;
+}
+
+#section_1930741572 .social-icons a:hover {
+  background-color: #1e73be;
+  border-color: #1e73be;
+  transform: translateY(-3px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+/* Column styling */
+#section_1930741572 .col-inner {
+  padding: 0 15px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 849px) {
+  #section_1930741572 .col {
+    padding-bottom: 30px;
+  }
+  
+  #section_1930741572 h3 {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 549px) {
+  #section_1930741572 {
+    padding: 30px 0;
+  }
+  
+  #section_1930741572 h3::after {
+    width: 50px;
+  }
+}
+
+.api_time_update {
+	margin-top: -3px;
+}		</style>
+		<style id="kirki-inline-styles">/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://banggianongsan.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4taVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://banggianongsan.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4kaVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://banggianongsan.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4saVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://banggianongsan.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4jaVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://banggianongsan.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4iaVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0307-0308, U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* math */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://banggianongsan.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B5caVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://banggianongsan.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B5OaVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://banggianongsan.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4vaVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://banggianongsan.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://banggianongsan.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVQUwaEQXjM.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://banggianongsan.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4taVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://banggianongsan.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4kaVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://banggianongsan.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4saVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://banggianongsan.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4jaVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://banggianongsan.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4iaVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0307-0308, U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* math */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://banggianongsan.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x5caVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://banggianongsan.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x5OaVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://banggianongsan.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4vaVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://banggianongsan.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4uaVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://banggianongsan.com/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVQUwaEQXjM.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* vietnamese */
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://banggianongsan.com/wp-content/fonts/dancing-script/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Rep6hNX6pmRMjLo.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://banggianongsan.com/wp-content/fonts/dancing-script/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3ROp6hNX6pmRMjLo.woff) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://banggianongsan.com/wp-content/fonts/dancing-script/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup6hNX6pmRM.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style>	
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZST1GXWNHG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZST1GXWNHG');
+</script>
+</head>
+
+<body class="home wp-singular page-template page-template-page-blank page-template-page-blank-php page page-id-5 wp-theme-flatsome wp-child-theme-flatsome-child lightbox nav-dropdown-has-arrow nav-dropdown-has-shadow nav-dropdown-has-border">
+
+
+<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+<div id="wrapper">
+
+	
+	<header id="header" class="header has-sticky sticky-jump">
+		<div class="header-wrapper">
+			<div id="top-bar" class="header-top hide-for-sticky nav-dark">
+    <div class="flex-row container">
+      <div class="flex-col hide-for-medium flex-left">
+          <ul class="nav nav-left medium-nav-center nav-small  nav-divided">
+              <li class="html custom html_topbar_left"><strong class="uppercase">Cung cấp giá nhanh chóng</strong></li>          </ul>
+      </div>
+
+      <div class="flex-col hide-for-medium flex-center">
+          <ul class="nav nav-center nav-small  nav-divided">
+                        </ul>
+      </div>
+
+      <div class="flex-col hide-for-medium flex-right">
+         <ul class="nav top-bar-nav nav-right nav-small  nav-divided">
+              <li class="header-newsletter-item has-icon">
+
+<a href="#header-newsletter-signup" class="tooltip is-small"
+  title="Sign up for Newsletter">
+
+      <i class="icon-envelop"></i>
+  
+      <span class="header-newsletter-title hide-for-medium">
+      Newsletter    </span>
+  </a>
+	<div id="header-newsletter-signup"
+	     class="lightbox-by-id lightbox-content mfp-hide lightbox-white "
+	     style="max-width:700px ;padding:0px">
+		
+  <div class="banner has-hover" id="banner-2093659206">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill" >
+            <div class="bg fill bg-fill "></div>
+                        <div class="overlay"></div>            
+	<div class="is-border is-dashed"
+		style="border-color:rgba(255,255,255,.3);border-width:2px 2px 2px 2px;margin:10px;">
+	</div>
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>               <div id="text-box-1903287093" class="text-box banner-layer x10 md-x10 lg-x10 y50 md-y50 lg-y50 res-text">
+                     <div data-animate="fadeInUp">           <div class="text-box-content text dark">
+              
+              <div class="text-inner text-left">
+                  <h3 class="uppercase">Sign up for Newsletter</h3><p class="lead">Signup for our newsletter to get notified about sales and new products. Add any text here or remove it.</p>[contact-form-7 id="7042" title="Newsletter Vertical"]              </div>
+           </div>
+       </div>                     
+<style>
+#text-box-1903287093 {
+  width: 60%;
+}
+#text-box-1903287093 .text-box-content {
+  font-size: 100%;
+}
+@media (min-width:550px) {
+  #text-box-1903287093 {
+    width: 50%;
+  }
+}
+</style>
+    </div>
+         </div>
+      </div>
+
+            
+<style>
+#banner-2093659206 {
+  padding-top: 500px;
+}
+#banner-2093659206 .bg.bg-loaded {
+  background-image: url(https://banggianongsan.com/wp-content/themes/flatsome/assets/img/missing.jpg);
+}
+#banner-2093659206 .overlay {
+  background-color: rgba(0,0,0,.4);
+}
+</style>
+  </div>
+
+	</div>
+	
+	</li>
+<li class="html header-social-icons ml-0">
+	<div class="social-icons follow-icons" ><a href="http://url" target="_blank" rel="noopener noreferrer nofollow" data-label="Facebook" class="icon plain facebook tooltip" title="Follow on Facebook" aria-label="Follow on Facebook" ><i class="icon-facebook" ></i></a><a href="http://url" target="_blank" rel="noopener noreferrer nofollow" data-label="Instagram" class="icon plain instagram tooltip" title="Follow on Instagram" aria-label="Follow on Instagram" ><i class="icon-instagram" ></i></a><a href="http://url" data-label="Twitter" target="_blank" rel="noopener noreferrer nofollow" class="icon plain twitter tooltip" title="Follow on Twitter" aria-label="Follow on Twitter" ><i class="icon-twitter" ></i></a><a href="mailto:your@email" data-label="E-mail" target="_blank" rel="nofollow" class="icon plain email tooltip" title="Send us an email" aria-label="Send us an email" ><i class="icon-envelop" ></i></a></div></li>
+          </ul>
+      </div>
+
+            <div class="flex-col show-for-medium flex-grow">
+          <ul class="nav nav-center nav-small mobile-nav  nav-divided">
+              <li class="html custom html_topbar_left"><strong class="uppercase">Cung cấp giá nhanh chóng</strong></li>          </ul>
+      </div>
+      
+    </div>
+</div>
+<div id="masthead" class="header-main ">
+      <div class="header-inner flex-row container logo-left medium-logo-center" role="navigation">
+
+          <!-- Logo -->
+          <div id="logo" class="flex-col logo">
+            
+<!-- Header logo -->
+<a href="https://banggianongsan.com/" title="Bảng giá nông sản hôm nay" rel="home">
+		<img width="1020" height="1020" src="https://banggianongsan.com/wp-content/uploads/2025/02/3148e777-e1b1-4852-9096-ef2ed77b9198.webp" class="header_logo header-logo" alt="Bảng giá nông sản hôm nay"/><img  width="1020" height="1020" src="https://banggianongsan.com/wp-content/uploads/2025/02/3148e777-e1b1-4852-9096-ef2ed77b9198.webp" class="header-logo-dark" alt="Bảng giá nông sản hôm nay"/></a>
+          </div>
+
+          <!-- Mobile Left Elements -->
+          <div class="flex-col show-for-medium flex-left">
+            <ul class="mobile-nav nav nav-left ">
+              <li class="nav-icon has-icon">
+  		<a href="#" data-open="#main-menu" data-pos="left" data-bg="main-menu-overlay" data-color="" class="is-small" aria-label="Menu" aria-controls="main-menu" aria-expanded="false">
+
+		  <i class="icon-menu" ></i>
+		  		</a>
+	</li>
+            </ul>
+          </div>
+
+          <!-- Left Elements -->
+          <div class="flex-col hide-for-medium flex-left
+            flex-grow">
+            <ul class="header-nav header-nav-main nav nav-left  nav-uppercase" >
+              <li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27 menu-item-design-default"><a href="https://banggianongsan.com/gioi-thieu/" class="nav-top-link">Giới thiệu</a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32 menu-item-design-default"><a href="https://banggianongsan.com/lien-he/" class="nav-top-link">Liên hệ</a></li>
+<li id="menu-item-340" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-340 menu-item-design-default has-dropdown"><a href="https://banggianongsan.com/category/tin-tuc-nong-san/" class="nav-top-link" aria-expanded="false" aria-haspopup="menu">Tin tức nông sản<i class="icon-angle-down" ></i></a>
+<ul class="sub-menu nav-dropdown nav-dropdown-default">
+	<li id="menu-item-337" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-337"><a href="https://banggianongsan.com/category/tin-tuc-ho-tieu/">Tin tức hồ tiêu</a></li>
+	<li id="menu-item-338" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-338"><a href="https://banggianongsan.com/category/tin-tuc-ca-phe/">Tin tức cà phê</a></li>
+	<li id="menu-item-339" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-339"><a href="https://banggianongsan.com/category/tin-tuc-sau-rieng/">Tin tức sầu riêng</a></li>
+</ul>
+</li>
+<li id="menu-item-341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-341 menu-item-design-default"><a href="https://banggianongsan.com/ty-gia-ngoai-te/" class="nav-top-link">Tỷ giá ngoại tệ</a></li>
+            </ul>
+          </div>
+
+          <!-- Right Elements -->
+          <div class="flex-col hide-for-medium flex-right">
+            <ul class="header-nav header-nav-main nav nav-right  nav-uppercase">
+              <li class="header-search-form search-form html relative has-icon">
+	<div class="header-search-form-wrapper">
+		<div class="searchform-wrapper ux-search-box relative form-flat is-normal"><form method="get" class="searchform" action="https://banggianongsan.com/" role="search">
+		<div class="flex-row relative">
+			<div class="flex-col flex-grow">
+	   	   <input type="search" class="search-field mb-0" name="s" value="" id="s" placeholder="Search&hellip;" />
+			</div>
+			<div class="flex-col">
+				<button type="submit" class="ux-search-submit submit-button secondary button icon mb-0" aria-label="Submit">
+					<i class="icon-search" ></i>				</button>
+			</div>
+		</div>
+    <div class="live-search-results text-left z-top"></div>
+</form>
+</div>	</div>
+</li>
+            </ul>
+          </div>
+
+          <!-- Mobile Right Elements -->
+          <div class="flex-col show-for-medium flex-right">
+            <ul class="mobile-nav nav nav-right ">
+                          </ul>
+          </div>
+
+      </div>
+
+            <div class="container"><div class="top-divider full-width"></div></div>
+      </div>
+<div id="wide-nav" class="header-bottom wide-nav flex-has-center hide-for-medium">
+    <div class="flex-row container">
+
+            
+                        <div class="flex-col hide-for-medium flex-center">
+                <ul class="nav header-nav header-bottom-nav nav-center  nav-size-medium nav-uppercase">
+                    <li id="menu-item-247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-5 current_page_item menu-item-247 active menu-item-design-default"><a href="https://banggianongsan.com/" aria-current="page" class="nav-top-link">Trang chủ</a></li>
+<li id="menu-item-249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-249 menu-item-design-default"><a href="https://banggianongsan.com/bang-gia-ca-phe/" class="nav-top-link">Bảng giá cà phê</a></li>
+<li id="menu-item-250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-250 menu-item-design-default"><a href="https://banggianongsan.com/bang-gia-sau-rieng/" class="nav-top-link">Bảng giá sầu riêng</a></li>
+<li id="menu-item-251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-251 menu-item-design-default"><a href="https://banggianongsan.com/bang-gia-tieu/" class="nav-top-link">Bảng giá tiêu</a></li>
+<li id="menu-item-312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-312 menu-item-design-default"><a href="https://banggianongsan.com/bang-gia-hat-dieu/" class="nav-top-link">Bảng giá hạt điều</a></li>
+<li id="menu-item-322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-322 menu-item-design-default"><a href="https://banggianongsan.com/bang-gia-ot/" class="nav-top-link">Bảng giá ớt</a></li>
+<li id="menu-item-336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-336 menu-item-design-default"><a href="https://banggianongsan.com/gia-khoai-lang/" class="nav-top-link">Bảng giá khoai lang</a></li>
+                </ul>
+            </div>
+            
+            
+            
+    </div>
+</div>
+
+<div class="header-bg-container fill"><div class="header-bg-image fill"></div><div class="header-bg-color fill"></div></div>		</div>
+	</header>
+
+	
+	<main id="main" class="">
+
+
+<div id="content" role="main" class="content-area">
+
+		
+			<style>
+        .chart-container {
+            width: 100%;
+            min-width: 300px;
+            height: 400px;
+            margin: 0 auto;
+            background-color: #f5f5f5
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+        }
+
+ .pepper-chart-wrapper {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      width: 100%;
+      max-width: 360px;
+    }
+    
+    .pepper-chart-wrapper * {
+      box-sizing: border-box;
+    }
+    
+    .pepper-chart-container {
+      width: 100%;
+      background-color: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      padding: 12px;
+    }
+    
+    .pepper-chart-title {
+      text-align: center;
+      color: #0d47a1;
+      margin: 0 0 15px 0;
+      font-size: 16px;
+      font-weight: bold;
+    }
+    
+    .pepper-chart-area {
+      position: relative;
+      height: 300px;
+      margin-bottom: 15px;
+    }
+    
+    .pepper-chart-info {
+      background-color: #e3f2fd;
+      border-left: 4px solid #0d47a1;
+      padding: 10px;
+      margin-top: 10px;
+      border-radius: 0 4px 4px 0;
+      font-size: 12px;
+    }
+    
+    .pepper-chart-info-title {
+      margin: 0 0 5px 0;
+      color: #0d47a1;
+      font-size: 14px;
+      font-weight: bold;
+    }
+    
+    .pepper-chart-info-text {
+      margin: 0;
+      line-height: 1.4;
+      color: #333;
+    }
+ .durian-chart-wrapper {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      width: 100%;
+      max-width: 500px;
+      height: 166px;
+    }
+    
+    .durian-chart-wrapper * {
+      box-sizing: border-box;
+    }
+    
+    .durian-chart-container {
+      width: 100%;
+      height: 100%;
+      background-color: white;
+      overflow: hidden;
+    }
+    
+    .durian-chart-area {
+      position: relative;
+      width: 100%;
+      height: 100%;
+    }
+
+.durian-chart-wrapper {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      width: 100%;
+      max-width: 500px;
+      height: 166px;
+    }
+    
+    .durian-chart-wrapper * {
+      box-sizing: border-box;
+    }
+    
+    .durian-chart-container {
+      width: 100%;
+      height: 100%;
+      background-color: white;
+      overflow: hidden;
+    }
+    
+    .durian-chart-area {
+      position: relative;
+      width: 100%;
+      height: 100%;
+    }
+    </style><div class="slider-wrapper relative" id="slider-1941252224" >
+    <div class="slider slider-nav-circle slider-nav-large slider-nav-light slider-style-normal"
+        data-flickity-options='{
+            "cellAlign": "center",
+            "imagesLoaded": true,
+            "lazyLoad": 1,
+            "freeScroll": false,
+            "wrapAround": true,
+            "autoPlay": 6000,
+            "pauseAutoPlayOnHover" : true,
+            "prevNextButtons": true,
+            "contain" : true,
+            "adaptiveHeight" : true,
+            "dragThreshold" : 10,
+            "percentPosition": true,
+            "pageDots": true,
+            "rightToLeft": false,
+            "draggable": true,
+            "selectedAttraction": 0.1,
+            "parallax" : 0,
+            "friction": 0.6        }'
+        >
+        
+
+  <div class="banner has-hover" id="banner-613312795">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill" >
+            <div class="bg fill bg-fill "></div>
+                                    
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>            
+        </div>
+      </div>
+
+            
+<style>
+#banner-613312795 {
+  padding-top: 500px;
+}
+#banner-613312795 .bg.bg-loaded {
+  background-image: url(https://banggianongsan.com/wp-content/uploads/2025/02/bang-gia-nong-san.jpg);
+}
+</style>
+  </div>
+
+
+     </div>
+
+     <div class="loading-spin dark large centered"></div>
+
+	</div>
+
+
+	<section class="section" id="section_1513206394">
+		<div class="bg section-bg fill bg-fill  bg-loaded" >
+
+			
+			
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+<div class="container section-title-container title-main-1 hidden" ><h2 class="section-title section-title-bold-center"><b></b><span class="section-title-main" >bảng giá nông sản hôm nay</span><b></b></h2></div>
+
+    <div class="container section-title-container title-main-1">
+        <h2 class="section-title section-title-bold-center">
+            <b></b>
+            <span class="section-title-main">
+                Bảng giá nông sản 26/10/2025            </span>
+            <b></b>
+        </h2>
+    </div>
+    
+
+<div class="row"  id="row-1268699623">
+
+	<div id="col-286327627" class="col medium-8 small-12 large-8"  >
+				<div class="col-inner"  >
+			
+			
+<div class="container section-title-container title-main-2" ><h3 class="section-title section-title-bold"><b></b><span class="section-title-main" >Bảng giá tiêu và điều hôm nay</span><b></b></h3></div>
+<div class="row"  id="row-746693650">
+
+	<div id="col-1516942298" class="col medium-6 small-12 large-6"  >
+				<div class="col-inner"  >
+			
+			
+<div class="container section-title-container title-main-3" ><h4 class="section-title section-title-normal"><b></b><span class="section-title-main" >Giá tiêu hôm nay</span><b></b><a href="https://banggianongsan.com/bang-gia-tieu/" target=""><i class="icon-angle-right" ></i></a></h4></div>
+
+<table >
+<thead>
+<tr>
+<th>Địa Điểm</th>
+<th>Giá</th>
+<th>Thay Đổi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Gia Lai</td>
+<td>144,000</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Bà Rịa &#8211; Vũng Tàu</td>
+<td>145,500</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Đắk Lắk</td>
+<td>146,000</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Bình Phước</td>
+<td>145,500</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Đắk Nông</td>
+<td>146,000</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+
+<div class="is-divider divider clearfix" ></div>
+		</div>
+					</div>
+
+	
+
+	<div id="col-968125024" class="col medium-6 small-12 large-6"  >
+				<div class="col-inner"  >
+			
+			
+<div class="container section-title-container title-main-3" ><h4 class="section-title section-title-normal"><b></b><span class="section-title-main" >Giá điều hôm nay</span><b></b><a href="https://banggianongsan.com/bang-gia-hat-dieu/" target=""><i class="icon-angle-right" ></i></a></h4></div>
+
+<table>
+<thead>
+<tr>
+<th>Địa Điểm</th>
+<th>Giá</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Đắk Lắk</td>
+<td>27.500đ/kg</td>
+</tr>
+<tr>
+<td>Đắk Nông</td>
+<td>28.000đ/kg</td>
+</tr>
+<tr>
+<td>Gia lai</td>
+<td>28.500đ/kg</td>
+</tr>
+<tr>
+<td>Kon Tum</td>
+<td>28.000đ/kg</td>
+</tr>
+<tr>
+<td>Lâm Đồng</td>
+<td>28.000đ/kg</td>
+</tr>
+<tr>
+<td>Bình Phước</td>
+<td>29.000đ/kg</td>
+</tr>
+<tr>
+<td>Vũng Tàu</td>
+<td>30.000đ/kg</td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+					</div>
+
+	
+</div>
+		</div>
+					</div>
+
+	
+
+	<div id="col-423727674" class="col medium-4 small-12 large-4"  >
+				<div class="col-inner"  >
+			
+			
+<div class="container section-title-container title-main-2" ><h3 class="section-title section-title-bold"><b></b><span class="section-title-main" >Tin tức hồ tiêu</span><b></b></h3></div>
+
+  
+    <div class="row blog-main-1 large-columns-1 medium-columns-1 small-columns-1 row-xsmall" >
+  <div class="col post-item" >
+			<div class="col-inner">
+				<div class="box box-vertical box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" style="border-radius:4%;width:40%;">
+  						<div class="image-cover" style="padding-top:70%;">
+							<a href="https://banggianongsan.com/thi-truong-tieu-tai-viet-nam-va-the-gioi/" class="plain" aria-label="Thị trường tiêu tại Việt Nam và thế giới">
+								<img fetchpriority="high" decoding="async" width="870" height="580" src="https://banggianongsan.com/wp-content/uploads/2024/12/thi-truong-ho-tieu.jpg" class="attachment-original size-original wp-post-image" alt="thi-truong-ho-tieu" srcset="https://banggianongsan.com/wp-content/uploads/2024/12/thi-truong-ho-tieu.jpg 870w, https://banggianongsan.com/wp-content/uploads/2024/12/thi-truong-ho-tieu-300x200.jpg 300w, https://banggianongsan.com/wp-content/uploads/2024/12/thi-truong-ho-tieu-768x512.jpg 768w" sizes="(max-width: 870px) 100vw, 870px" />							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 class="post-title is-large ">
+						<a href="https://banggianongsan.com/thi-truong-tieu-tai-viet-nam-va-the-gioi/" class="plain">Thị trường tiêu tại Việt Nam và thế giới</a>
+					</h5>
+					<div class="post-meta is-small op-8">August 14, 2025</div>					<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div></div>
+
+  
+    <div class="row blog-main-2 large-columns-1 medium-columns-1 small-columns-1 row-collapse" >
+  <div class="col post-item" >
+			<div class="col-inner">
+				<div class="box box-vertical box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" >
+  						<div class="image-cover" style="padding-top:0px;">
+							<a href="https://banggianongsan.com/san-luong-ho-tieu-the-gioi/" class="plain" aria-label="Sản lượng hồ tiêu trên thế giới">
+								<img decoding="async" width="300" height="171" src="https://banggianongsan.com/wp-content/uploads/2025/01/san-luong-ho-tieu-1-300x171.jpg" class="attachment-medium size-medium wp-post-image" alt="san-luong-ho-tieu (1)" srcset="https://banggianongsan.com/wp-content/uploads/2025/01/san-luong-ho-tieu-1-300x171.jpg 300w, https://banggianongsan.com/wp-content/uploads/2025/01/san-luong-ho-tieu-1.jpg 700w" sizes="(max-width: 300px) 100vw, 300px" />							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 class="post-title is-large ">
+						<a href="https://banggianongsan.com/san-luong-ho-tieu-the-gioi/" class="plain">Sản lượng hồ tiêu trên thế giới</a>
+					</h5>
+					<div class="post-meta is-small op-8">January 7, 2025</div>					<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div><div class="col post-item" >
+			<div class="col-inner">
+				<div class="box box-vertical box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" >
+  						<div class="image-cover" style="padding-top:0px;">
+							<a href="https://banggianongsan.com/mo-hinh-trong-tieu/" class="plain" aria-label="Mô Hình Trồng Tiêu Hiệu Quả">
+								<img decoding="async" width="300" height="199" src="https://banggianongsan.com/wp-content/uploads/2025/01/mo-hinh-trong-tieu-300x199.jpg" class="attachment-medium size-medium wp-post-image" alt="mo-hinh-trong-tieu" srcset="https://banggianongsan.com/wp-content/uploads/2025/01/mo-hinh-trong-tieu-300x199.jpg 300w, https://banggianongsan.com/wp-content/uploads/2025/01/mo-hinh-trong-tieu.jpg 570w" sizes="(max-width: 300px) 100vw, 300px" />							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 class="post-title is-large ">
+						<a href="https://banggianongsan.com/mo-hinh-trong-tieu/" class="plain">Mô Hình Trồng Tiêu Hiệu Quả</a>
+					</h5>
+					<div class="post-meta is-small op-8">January 3, 2025</div>					<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div><div class="col post-item" >
+			<div class="col-inner">
+				<div class="box box-vertical box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" >
+  						<div class="image-cover" style="padding-top:0px;">
+							<a href="https://banggianongsan.com/cac-nuoc-xuat-khau-ho-tieu/" class="plain" aria-label="Các nước xuất khẩu hồ tiêu lớn nhất">
+								<img loading="lazy" decoding="async" width="300" height="180" src="https://banggianongsan.com/wp-content/uploads/2024/12/ho_tieu-300x180.jpg" class="attachment-medium size-medium wp-post-image" alt="ho_tieu" srcset="https://banggianongsan.com/wp-content/uploads/2024/12/ho_tieu-300x180.jpg 300w, https://banggianongsan.com/wp-content/uploads/2024/12/ho_tieu.jpg 752w" sizes="auto, (max-width: 300px) 100vw, 300px" />							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 class="post-title is-large ">
+						<a href="https://banggianongsan.com/cac-nuoc-xuat-khau-ho-tieu/" class="plain">Các nước xuất khẩu hồ tiêu lớn nhất</a>
+					</h5>
+					<div class="post-meta is-small op-8">December 31, 2024</div>					<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div><div class="col post-item" >
+			<div class="col-inner">
+				<div class="box box-vertical box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" >
+  						<div class="image-cover" style="padding-top:0px;">
+							<a href="https://banggianongsan.com/cach-nhan-giong-ho-tieu/" class="plain" aria-label="Cách Nhân Giống Hồ Tiêu">
+								<img loading="lazy" decoding="async" width="300" height="182" src="https://banggianongsan.com/wp-content/uploads/2024/12/nhan-giong-ho-tieu-2-300x182.jpg" class="attachment-medium size-medium wp-post-image" alt="nhan-giong-ho-tieu-2" srcset="https://banggianongsan.com/wp-content/uploads/2024/12/nhan-giong-ho-tieu-2-300x182.jpg 300w, https://banggianongsan.com/wp-content/uploads/2024/12/nhan-giong-ho-tieu-2.jpg 706w" sizes="auto, (max-width: 300px) 100vw, 300px" />							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 class="post-title is-large ">
+						<a href="https://banggianongsan.com/cach-nhan-giong-ho-tieu/" class="plain">Cách Nhân Giống Hồ Tiêu</a>
+					</h5>
+					<div class="post-meta is-small op-8">December 31, 2024</div>					<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div><div class="col post-item" >
+			<div class="col-inner">
+				<div class="box box-vertical box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" >
+  						<div class="image-cover" style="padding-top:0px;">
+							<a href="https://banggianongsan.com/phong-tru-sau-benh-cho-cay-tieu/" class="plain" aria-label="Phòng Trừ Sâu Bệnh Cho Cây Tiêu">
+								<img loading="lazy" decoding="async" width="300" height="167" src="https://banggianongsan.com/wp-content/uploads/2024/12/phong-benh-cho-tieu-300x167.jpg" class="attachment-medium size-medium wp-post-image" alt="phong-benh-cho-tieu" srcset="https://banggianongsan.com/wp-content/uploads/2024/12/phong-benh-cho-tieu-300x167.jpg 300w, https://banggianongsan.com/wp-content/uploads/2024/12/phong-benh-cho-tieu.jpg 600w" sizes="auto, (max-width: 300px) 100vw, 300px" />							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 class="post-title is-large ">
+						<a href="https://banggianongsan.com/phong-tru-sau-benh-cho-cay-tieu/" class="plain">Phòng Trừ Sâu Bệnh Cho Cây Tiêu</a>
+					</h5>
+					<div class="post-meta is-small op-8">December 31, 2024</div>					<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div><div class="col post-item" >
+			<div class="col-inner">
+				<div class="box box-vertical box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" >
+  						<div class="image-cover" style="padding-top:0px;">
+							<a href="https://banggianongsan.com/luan-canh-cay-trong-phong-benh-cho-tieu/" class="plain" aria-label="Luân canh cây trồng phòng bệnh cho tiêu">
+								<img loading="lazy" decoding="async" width="300" height="196" src="https://banggianongsan.com/wp-content/uploads/2024/12/luan-canh-ho-tieu-300x196.jpg" class="attachment-medium size-medium wp-post-image" alt="luan-canh-ho-tieu" srcset="https://banggianongsan.com/wp-content/uploads/2024/12/luan-canh-ho-tieu-300x196.jpg 300w, https://banggianongsan.com/wp-content/uploads/2024/12/luan-canh-ho-tieu.jpg 640w" sizes="auto, (max-width: 300px) 100vw, 300px" />							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 class="post-title is-large ">
+						<a href="https://banggianongsan.com/luan-canh-cay-trong-phong-benh-cho-tieu/" class="plain">Luân canh cây trồng phòng bệnh cho tiêu</a>
+					</h5>
+					<div class="post-meta is-small op-8">December 31, 2024</div>					<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div><div class="col post-item" >
+			<div class="col-inner">
+				<div class="box box-vertical box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" >
+  						<div class="image-cover" style="padding-top:0px;">
+							<a href="https://banggianongsan.com/cach-bao-quan-tieu-sau-thu-hoach/" class="plain" aria-label="Cách Bảo Quản Tiêu Sau Thu Hoạch Hiệu Quả và Bền Vững">
+								<img loading="lazy" decoding="async" width="300" height="188" src="https://banggianongsan.com/wp-content/uploads/2024/12/bao-quan-ho-tieu-300x188.jpg" class="attachment-medium size-medium wp-post-image" alt="bao-quan-ho-tieu" srcset="https://banggianongsan.com/wp-content/uploads/2024/12/bao-quan-ho-tieu-300x188.jpg 300w, https://banggianongsan.com/wp-content/uploads/2024/12/bao-quan-ho-tieu-768x480.jpg 768w, https://banggianongsan.com/wp-content/uploads/2024/12/bao-quan-ho-tieu.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" />							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 class="post-title is-large ">
+						<a href="https://banggianongsan.com/cach-bao-quan-tieu-sau-thu-hoach/" class="plain">Cách Bảo Quản Tiêu Sau Thu Hoạch Hiệu Quả và Bền Vững</a>
+					</h5>
+					<div class="post-meta is-small op-8">December 31, 2024</div>					<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div></div>
+<div class="is-divider divider clearfix" ></div>
+		<div class="hidden">
+				
+<div class="chart-container"></div>
+<h3 class="pepper-chart-title">Diện Tích Trồng Hồ Tiêu Việt Nam 2025</h3>
+		</div>
+	
+		</div>
+					</div>
+
+	
+</div>
+<div class="row"  id="row-1602182233">
+
+	<div id="col-1104609562" class="col small-12 large-12"  >
+				<div class="col-inner"  >
+			
+			
+<div class="container section-title-container title-main-2" ><h3 class="section-title section-title-bold"><b></b><span class="section-title-main" >Bảng giá cà phê hôm nay</span><b></b></h3></div>
+<div class="row"  id="row-586315071">
+
+	<div id="col-1532296041" class="col medium-6 small-12 large-6"  >
+				<div class="col-inner"  >
+			
+			
+<div class="container section-title-container title-main-3" ><h4 class="section-title section-title-normal"><b></b><span class="section-title-main" >Giá cà phê trong nước</span><b></b><a href="https://banggianongsan.com/bang-gia-ca-phe/" target=""><i class="icon-angle-right" ></i></a></h4></div>
+
+<table>
+<thead>
+<tr>
+<th>Thị trường</th>
+<th>Trung bình</th>
+<th>Thay đổi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Đắk Lắk</td>
+<td>115,500</td>
+<td>1,100</td>
+</tr>
+<tr>
+<td>Lâm Đồng</td>
+<td>115,500</td>
+<td>1,200</td>
+</tr>
+<tr>
+<td>Gia Lai</td>
+<td>115,500</td>
+<td>1,200</td>
+</tr>
+<tr>
+<td>Đắk Nông</td>
+<td>115,500</td>
+<td>1,200</td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-1742229812" class="col medium-6 small-12 large-6"  >
+				<div class="col-inner"  >
+			
+			
+<div class="container section-title-container title-main-3" ><h4 class="section-title section-title-normal"><b></b><span class="section-title-main" >Tin tức cà phê</span><b></b></h4></div>
+
+  
+    <div class="row blog-main-2 large-columns-1 medium-columns-1 small-columns-1 row-collapse" >
+  <div class="col post-item" >
+			<div class="col-inner">
+				<div class="box box-vertical box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" >
+  						<div class="image-cover" style="padding-top:0px;">
+							<a href="https://banggianongsan.com/gia-tri-kinh-te-cua-cay-ca-phe/" class="plain" aria-label="Giá Trị Kinh Tế Của Cây Cà Phê: Nguồn Lực Phát Triển Nông Thôn Việt Nam">
+								<img loading="lazy" decoding="async" width="700" height="400" src="https://banggianongsan.com/wp-content/uploads/2025/01/gia-tri-kinh-te-cua-cay-ca-phe-1-1.jpg" class="attachment-original size-original wp-post-image" alt="gia-tri-kinh-te-cua-cay-ca-phe-1 (1)" srcset="https://banggianongsan.com/wp-content/uploads/2025/01/gia-tri-kinh-te-cua-cay-ca-phe-1-1.jpg 700w, https://banggianongsan.com/wp-content/uploads/2025/01/gia-tri-kinh-te-cua-cay-ca-phe-1-1-300x171.jpg 300w" sizes="auto, (max-width: 700px) 100vw, 700px" />							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 class="post-title is-large ">
+						<a href="https://banggianongsan.com/gia-tri-kinh-te-cua-cay-ca-phe/" class="plain">Giá Trị Kinh Tế Của Cây Cà Phê: Nguồn Lực Phát Triển Nông Thôn Việt Nam</a>
+					</h5>
+					<div class="post-meta is-small op-8">January 8, 2025</div>					<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div><div class="col post-item" >
+			<div class="col-inner">
+				<div class="box box-vertical box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" >
+  						<div class="image-cover" style="padding-top:0px;">
+							<a href="https://banggianongsan.com/ky-thuat-trong-va-cham-soc-cay-ca-phe/" class="plain" aria-label="Kỹ thuật trồng và chăm sóc cây cà phê">
+								<img loading="lazy" decoding="async" width="600" height="400" src="https://banggianongsan.com/wp-content/uploads/2024/12/cay-ca-phe-2-e1735649142180.jpg" class="attachment-original size-original wp-post-image" alt="cay-ca-phe-2" />							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 class="post-title is-large ">
+						<a href="https://banggianongsan.com/ky-thuat-trong-va-cham-soc-cay-ca-phe/" class="plain">Kỹ thuật trồng và chăm sóc cây cà phê</a>
+					</h5>
+					<div class="post-meta is-small op-8">January 1, 2025</div>					<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div><div class="col post-item" >
+			<div class="col-inner">
+				<div class="box box-vertical box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" >
+  						<div class="image-cover" style="padding-top:0px;">
+							<a href="https://banggianongsan.com/cac-benh-thuong-gap-o-cay-ca-phe/" class="plain" aria-label="Các bệnh thường gặp ở cây cà phê">
+								<img loading="lazy" decoding="async" width="961" height="664" src="https://banggianongsan.com/wp-content/uploads/2025/01/benh-sau-hai-ca-phe.jpg" class="attachment-original size-original wp-post-image" alt="benh-sau-hai-ca-phe" srcset="https://banggianongsan.com/wp-content/uploads/2025/01/benh-sau-hai-ca-phe.jpg 961w, https://banggianongsan.com/wp-content/uploads/2025/01/benh-sau-hai-ca-phe-300x207.jpg 300w, https://banggianongsan.com/wp-content/uploads/2025/01/benh-sau-hai-ca-phe-768x531.jpg 768w" sizes="auto, (max-width: 961px) 100vw, 961px" />							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 class="post-title is-large ">
+						<a href="https://banggianongsan.com/cac-benh-thuong-gap-o-cay-ca-phe/" class="plain">Các bệnh thường gặp ở cây cà phê</a>
+					</h5>
+					<div class="post-meta is-small op-8">January 1, 2025</div>					<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div><div class="col post-item" >
+			<div class="col-inner">
+				<div class="box box-vertical box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" >
+  						<div class="image-cover" style="padding-top:0px;">
+							<a href="https://banggianongsan.com/thu-hoach-va-che-bien-ca-phe/" class="plain" aria-label="Thu hoạch và chế biến cà phê: Quy trình từ nông trại đến tách cà phê">
+								<img loading="lazy" decoding="async" width="800" height="449" src="https://banggianongsan.com/wp-content/uploads/2024/12/thu-hoach-va-che-bien-ca-phe.jpg" class="attachment-original size-original wp-post-image" alt="thu-hoach-va-che-bien-ca-phe" srcset="https://banggianongsan.com/wp-content/uploads/2024/12/thu-hoach-va-che-bien-ca-phe.jpg 800w, https://banggianongsan.com/wp-content/uploads/2024/12/thu-hoach-va-che-bien-ca-phe-300x168.jpg 300w, https://banggianongsan.com/wp-content/uploads/2024/12/thu-hoach-va-che-bien-ca-phe-768x431.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" />							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 class="post-title is-large ">
+						<a href="https://banggianongsan.com/thu-hoach-va-che-bien-ca-phe/" class="plain">Thu hoạch và chế biến cà phê: Quy trình từ nông trại đến tách cà phê</a>
+					</h5>
+					<div class="post-meta is-small op-8">December 31, 2024</div>					<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div></div>
+		</div>
+					</div>
+
+	
+</div>
+<div class="container section-title-container title-main-2" ><h3 class="section-title section-title-bold"><b></b><span class="section-title-main" >Bảng giá ớt hôm nay</span><b></b><a href="https://banggianongsan.com/bang-gia-ot/" target=""><i class="icon-angle-right" ></i></a></h3></div>
+<table>
+<thead>
+<tr>
+<th>Chủng loại</th>
+<th>Giá (đồng/kg)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ớt hiểm, ớt xiêm xanh</td>
+<td>35.000đ/kg</td>
+</tr>
+<tr>
+<td>Ớt hiểm, xiêm xanh chợ</td>
+<td>30.000đ/kg</td>
+</tr>
+<tr>
+<td>Ớt sừng vàng, ớt sừng tơ đẹp</td>
+<td>50.000đ/kg</td>
+</tr>
+<tr>
+<td>Ớt sừng vàng, sừng tơ chợ</td>
+<td>40.000đ-45.000đ/kg</td>
+</tr>
+<tr>
+<td>Ớt sừng vàng, sừng tơ đi xay</td>
+<td>25.000đ-30.000đ/kg</td>
+</tr>
+<tr>
+<td>Ớt chỉ thiên xuất khẩu</td>
+<td>30.000đ-32.000đ/kg/kg</td>
+</tr>
+<tr>
+<td>Ớt chỉ thiên hàng chợ</td>
+<td>25.000đ/-27.000đ</td>
+</tr>
+</tbody>
+</table>
+		</div>
+					</div>
+
+	
+</div>
+<div class="row"  id="row-211195036">
+
+	<div id="col-1886885355" class="col small-12 large-12"  >
+				<div class="col-inner"  >
+			
+			
+<div class="container section-title-container title-main-2" ><h3 class="section-title section-title-bold"><b></b><span class="section-title-main" >Bảng giá sầu riêng</span><b></b></h3></div>
+<div class="row"  id="row-1603962688">
+
+	<div id="col-1678673233" class="col medium-6 small-12 large-6"  >
+				<div class="col-inner"  >
+			
+			
+<div class="container section-title-container title-main-3" ><h4 class="section-title section-title-normal"><b></b><span class="section-title-main" >Giá sầu riêng trong nước</span><b></b><a href="https://banggianongsan.com/bang-gia-sau-rieng/" target=""><i class="icon-angle-right" ></i></a></h4></div>
+
+<table id="durianPriceTable">
+<thead>
+<tr>
+<th>Loại</th>
+<th>Miền Tây Nam Bộ</th>
+<th>Miền Đông Nam Bộ</th>
+<th>Tây Nguyên</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sầu riêng Ri6 đẹp</td>
+<td>63.000 – 65.000</td>
+<td>48.000 – 65.000</td>
+<td>52.000 – 54.000</td>
+</tr>
+<tr>
+<td>Sầu riêng Ri6 xô</td>
+<td>48.000 – 50.000</td>
+<td>48.000 – 50.000</td>
+<td>25.000 – 30.000</td>
+</tr>
+<tr>
+<td>Sầu riêng Thái đẹp</td>
+<td>94.000 – 95.000</td>
+<td>94.000 – 95.000</td>
+<td>72.000 – 74.000</td>
+</tr>
+<tr>
+<td>Sầu riêng Thái xô</td>
+<td>75.000 – 77.000</td>
+<td>75.000 – 77.000</td>
+<td>32.000 – 35.000</td>
+</tr>
+</tbody>
+</table>
+
+<div class="is-divider divider clearfix" ></div>
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_785718876">
+								<div class="img-inner dark" >
+			<img loading="lazy" decoding="async" width="1020" height="452" src="https://banggianongsan.com/wp-content/uploads/2025/03/bang-gia-sau-rieng-1024x454.jpg" class="attachment-large size-large" alt="bang-gia-sau-rieng" srcset="https://banggianongsan.com/wp-content/uploads/2025/03/bang-gia-sau-rieng-1024x454.jpg 1024w, https://banggianongsan.com/wp-content/uploads/2025/03/bang-gia-sau-rieng-300x133.jpg 300w, https://banggianongsan.com/wp-content/uploads/2025/03/bang-gia-sau-rieng-768x340.jpg 768w, https://banggianongsan.com/wp-content/uploads/2025/03/bang-gia-sau-rieng.jpg 1063w" sizes="auto, (max-width: 1020px) 100vw, 1020px" />						
+					</div>
+								
+<style>
+#image_785718876 {
+  width: 100%;
+}
+</style>
+	</div>
+	
+		</div>
+					</div>
+
+	
+
+	<div id="col-1328479063" class="col medium-6 small-12 large-6"  >
+				<div class="col-inner"  >
+			
+			
+<div class="container section-title-container" ><h4 class="section-title section-title-normal"><b></b><span class="section-title-main" >Tin tức sầu riêng</span><b></b></h4></div>
+
+  
+    <div class="row blog-main-3 large-columns-1 medium-columns-1 small-columns-1 row-small" >
+  <div class="col post-item" >
+			<div class="col-inner">
+				<div class="box box-vertical box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" style="border-radius:3%;width:35%;">
+  						<div class="image-cover" style="padding-top:60%;">
+							<a href="https://banggianongsan.com/gia-sau-va-nguoi-nong-dan/" class="plain" aria-label="Ảnh hưởng của giá sầu riêng đến người nông dân">
+								<img loading="lazy" decoding="async" width="700" height="400" src="https://banggianongsan.com/wp-content/uploads/2025/02/nong-san-sau-rieng-va-nong-dan.jpg" class="attachment-original size-original wp-post-image" alt="nong-san-sau-rieng-va-nong-dan" srcset="https://banggianongsan.com/wp-content/uploads/2025/02/nong-san-sau-rieng-va-nong-dan.jpg 700w, https://banggianongsan.com/wp-content/uploads/2025/02/nong-san-sau-rieng-va-nong-dan-300x171.jpg 300w" sizes="auto, (max-width: 700px) 100vw, 700px" />							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 class="post-title is-large ">
+						<a href="https://banggianongsan.com/gia-sau-va-nguoi-nong-dan/" class="plain">Ảnh hưởng của giá sầu riêng đến người nông dân</a>
+					</h5>
+					<div class="post-meta is-small op-8">September 19, 2025</div>					<div class="is-divider"></div>
+										<p class="from_the_blog_excerpt ">Tôi trồng cây ăn trái hơn 15 năm rồi, mà hiếm có năm nào tôi...					</p>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div><div class="col post-item" >
+			<div class="col-inner">
+				<div class="box box-vertical box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" style="border-radius:3%;width:35%;">
+  						<div class="image-cover" style="padding-top:60%;">
+							<a href="https://banggianongsan.com/nang-suat-sau-rieng-monthong/" class="plain" aria-label="Năng Suất Sầu Riêng Monthong Tại Việt Nam: Thực Trạng &#038; Giải Pháp Tăng Trưởng">
+								<img loading="lazy" decoding="async" width="700" height="490" src="https://banggianongsan.com/wp-content/uploads/2025/09/sau-rieng-monthong-tai-viet-nam-1.jpg" class="attachment-original size-original wp-post-image" alt="sau-rieng-monthong-tai-viet-nam-1" srcset="https://banggianongsan.com/wp-content/uploads/2025/09/sau-rieng-monthong-tai-viet-nam-1.jpg 700w, https://banggianongsan.com/wp-content/uploads/2025/09/sau-rieng-monthong-tai-viet-nam-1-300x210.jpg 300w" sizes="auto, (max-width: 700px) 100vw, 700px" />							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 class="post-title is-large ">
+						<a href="https://banggianongsan.com/nang-suat-sau-rieng-monthong/" class="plain">Năng Suất Sầu Riêng Monthong Tại Việt Nam: Thực Trạng &#038; Giải Pháp Tăng Trưởng</a>
+					</h5>
+					<div class="post-meta is-small op-8">September 16, 2025</div>					<div class="is-divider"></div>
+										<p class="from_the_blog_excerpt ">Bạn biết đấy, cách đây chừng 10 năm, hỏi tới giống sầu riêng nào “ăn...					</p>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div><div class="col post-item" >
+			<div class="col-inner">
+				<div class="box box-vertical box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" style="border-radius:3%;width:35%;">
+  						<div class="image-cover" style="padding-top:60%;">
+							<a href="https://banggianongsan.com/ky-thuat-trong-sau-rieng-thai/" class="plain" aria-label="Kỹ thuật trồng sầu riêng Thái">
+								<img loading="lazy" decoding="async" width="640" height="448" src="https://banggianongsan.com/wp-content/uploads/2025/09/Ky-thuat-trong-sau-rieng-thai-2.jpg" class="attachment-original size-original wp-post-image" alt="Ky-thuat-trong-sau-rieng-thai-2" srcset="https://banggianongsan.com/wp-content/uploads/2025/09/Ky-thuat-trong-sau-rieng-thai-2.jpg 640w, https://banggianongsan.com/wp-content/uploads/2025/09/Ky-thuat-trong-sau-rieng-thai-2-300x210.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" />							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 class="post-title is-large ">
+						<a href="https://banggianongsan.com/ky-thuat-trong-sau-rieng-thai/" class="plain">Kỹ thuật trồng sầu riêng Thái</a>
+					</h5>
+					<div class="post-meta is-small op-8">September 14, 2025</div>					<div class="is-divider"></div>
+										<p class="from_the_blog_excerpt ">Bạn biết không, mười năm trước nếu ai hỏi tôi có nên trồng giống sầu...					</p>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div><div class="col post-item" >
+			<div class="col-inner">
+				<div class="box box-vertical box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" style="border-radius:3%;width:35%;">
+  						<div class="image-cover" style="padding-top:60%;">
+							<a href="https://banggianongsan.com/benh-vang-la-thoi-re-sau-rieng/" class="plain" aria-label="Bệnh Vàng Lá Thối Rễ Sầu Riêng">
+								<img loading="lazy" decoding="async" width="700" height="490" src="https://banggianongsan.com/wp-content/uploads/2025/04/benh-vang-la-thoi-re-sau-rieng-2.jpg" class="attachment-original size-original wp-post-image" alt="benh-vang-la-thoi-re-sau-rieng-2" srcset="https://banggianongsan.com/wp-content/uploads/2025/04/benh-vang-la-thoi-re-sau-rieng-2.jpg 700w, https://banggianongsan.com/wp-content/uploads/2025/04/benh-vang-la-thoi-re-sau-rieng-2-300x210.jpg 300w" sizes="auto, (max-width: 700px) 100vw, 700px" />							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 class="post-title is-large ">
+						<a href="https://banggianongsan.com/benh-vang-la-thoi-re-sau-rieng/" class="plain">Bệnh Vàng Lá Thối Rễ Sầu Riêng</a>
+					</h5>
+					<div class="post-meta is-small op-8">August 23, 2025</div>					<div class="is-divider"></div>
+										<p class="from_the_blog_excerpt ">Bệnh vàng lá thối rễ đang trở thành mối lo ngại lớn nhất của bà...					</p>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div><div class="col post-item" >
+			<div class="col-inner">
+				<div class="box box-vertical box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" style="border-radius:3%;width:35%;">
+  						<div class="image-cover" style="padding-top:60%;">
+							<a href="https://banggianongsan.com/cac-tieu-chuan-xuat-khau-sau-rieng/" class="plain" aria-label="Các Tiêu Chuẩn Xuất Khẩu Sầu Riêng">
+								<img loading="lazy" decoding="async" width="700" height="490" src="https://banggianongsan.com/wp-content/uploads/2025/07/cac-tieu-chuan-xuat-khau-sau-rieng-1.jpg" class="attachment-original size-original wp-post-image" alt="cac-tieu-chuan-xuat-khau-sau-rieng-1" srcset="https://banggianongsan.com/wp-content/uploads/2025/07/cac-tieu-chuan-xuat-khau-sau-rieng-1.jpg 700w, https://banggianongsan.com/wp-content/uploads/2025/07/cac-tieu-chuan-xuat-khau-sau-rieng-1-300x210.jpg 300w" sizes="auto, (max-width: 700px) 100vw, 700px" />							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-left" >
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 class="post-title is-large ">
+						<a href="https://banggianongsan.com/cac-tieu-chuan-xuat-khau-sau-rieng/" class="plain">Các Tiêu Chuẩn Xuất Khẩu Sầu Riêng</a>
+					</h5>
+					<div class="post-meta is-small op-8">July 29, 2025</div>					<div class="is-divider"></div>
+										<p class="from_the_blog_excerpt ">Xuất khẩu sầu riêng hiện đang là “con át chủ bài” của nông sản Việt....					</p>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div></div>
+		</div>
+					</div>
+
+	
+</div>
+		</div>
+					</div>
+
+	
+</div>
+		</div>
+
+		
+<style>
+#section_1513206394 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+</style>
+	</section>
+	
+	<section class="section" id="section_1820933935">
+		<div class="bg section-bg fill bg-fill  bg-loaded" >
+
+			
+			
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+<div class="container section-title-container title-main-2" ><h3 class="section-title section-title-bold"><b></b><span class="section-title-main" >Tin tức nhà nông</span><b></b></h3></div>
+
+  
+    <div class="row blog-main-slider large-columns-5 medium-columns-3 small-columns-1 row-small slider row-slider slider-nav-simple slider-nav-push"  data-flickity-options='{"imagesLoaded": true, "groupCells": "100%", "dragThreshold" : 5, "cellAlign": "left","wrapAround": true,"prevNextButtons": true,"percentPosition": true,"pageDots": true, "rightToLeft": false, "autoPlay" : 4000}' >
+
+  <div class="col post-item" >
+			<div class="col-inner">
+				<div class="box box-normal box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" style="border-radius:4%;">
+  						<div class="image-overlay-remove image-cover" style="padding-top:75%;">
+							<a href="https://banggianongsan.com/cac-loai-phan-bon-pho-bien/" class="plain" aria-label="Tổng hợp các loại phân bón phổ biến tại Việt Nam và cách chọn mua hiệu quả">
+								<img loading="lazy" decoding="async" width="700" height="525" src="https://banggianongsan.com/wp-content/uploads/2025/10/nguoi-nong-dan-bon-phan-cho-cay-3.jpg" class="attachment-original size-original wp-post-image" alt="nguoi-nong-dan-bon-phan-cho-cay-3" srcset="https://banggianongsan.com/wp-content/uploads/2025/10/nguoi-nong-dan-bon-phan-cho-cay-3.jpg 700w, https://banggianongsan.com/wp-content/uploads/2025/10/nguoi-nong-dan-bon-phan-cho-cay-3-300x225.jpg 300w" sizes="auto, (max-width: 700px) 100vw, 700px" />							</a>
+  							<div class="overlay" style="background-color: rgba(0, 0, 0, 0.09)"></div>  							  						</div>
+  						  					</div>
+          					<div class="box-text show-on-hover hover-bounce text-center is-large" style="padding:10% 0px 10% 0px;">
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 class="post-title is-small ">
+						<a href="https://banggianongsan.com/cac-loai-phan-bon-pho-bien/" class="plain">Tổng hợp các loại phân bón phổ biến tại Việt Nam và cách chọn mua hiệu quả</a>
+					</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div><div class="col post-item" >
+			<div class="col-inner">
+				<div class="box box-normal box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" style="border-radius:4%;">
+  						<div class="image-overlay-remove image-cover" style="padding-top:75%;">
+							<a href="https://banggianongsan.com/quy-trinh-trong-mia-dat-nang-suat-cao/" class="plain" aria-label="Quy trình trồng mía đạt năng suất cao">
+								<img loading="lazy" decoding="async" width="700" height="490" src="https://banggianongsan.com/wp-content/uploads/2025/06/quy-trinh-trong-mia-dat-nang-suat-cao-2.jpg" class="attachment-original size-original wp-post-image" alt="quy-trinh-trong-mia-dat-nang-suat-cao-2" srcset="https://banggianongsan.com/wp-content/uploads/2025/06/quy-trinh-trong-mia-dat-nang-suat-cao-2.jpg 700w, https://banggianongsan.com/wp-content/uploads/2025/06/quy-trinh-trong-mia-dat-nang-suat-cao-2-300x210.jpg 300w" sizes="auto, (max-width: 700px) 100vw, 700px" />							</a>
+  							<div class="overlay" style="background-color: rgba(0, 0, 0, 0.09)"></div>  							  						</div>
+  						  					</div>
+          					<div class="box-text show-on-hover hover-bounce text-center is-large" style="padding:10% 0px 10% 0px;">
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 class="post-title is-small ">
+						<a href="https://banggianongsan.com/quy-trinh-trong-mia-dat-nang-suat-cao/" class="plain">Quy trình trồng mía đạt năng suất cao</a>
+					</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div><div class="col post-item" >
+			<div class="col-inner">
+				<div class="box box-normal box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" style="border-radius:4%;">
+  						<div class="image-overlay-remove image-cover" style="padding-top:75%;">
+							<a href="https://banggianongsan.com/cac-vung-trong-dieu-lon-o-viet-nam/" class="plain" aria-label="Các vùng trồng điều lớn ở Việt Nam">
+								<img loading="lazy" decoding="async" width="800" height="560" src="https://banggianongsan.com/wp-content/uploads/2025/05/cac-vung-trong-dieu-1.jpg" class="attachment-original size-original wp-post-image" alt="cac-vung-trong-dieu-1" srcset="https://banggianongsan.com/wp-content/uploads/2025/05/cac-vung-trong-dieu-1.jpg 800w, https://banggianongsan.com/wp-content/uploads/2025/05/cac-vung-trong-dieu-1-300x210.jpg 300w, https://banggianongsan.com/wp-content/uploads/2025/05/cac-vung-trong-dieu-1-768x538.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" />							</a>
+  							<div class="overlay" style="background-color: rgba(0, 0, 0, 0.09)"></div>  							  						</div>
+  						  					</div>
+          					<div class="box-text show-on-hover hover-bounce text-center is-large" style="padding:10% 0px 10% 0px;">
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 class="post-title is-small ">
+						<a href="https://banggianongsan.com/cac-vung-trong-dieu-lon-o-viet-nam/" class="plain">Các vùng trồng điều lớn ở Việt Nam</a>
+					</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div><div class="col post-item" >
+			<div class="col-inner">
+				<div class="box box-normal box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" style="border-radius:4%;">
+  						<div class="image-overlay-remove image-cover" style="padding-top:75%;">
+							<a href="https://banggianongsan.com/quy-trinh-san-xuat-mat-mia/" class="plain" aria-label="Quy trình sản xuất mật mía">
+								<img loading="lazy" decoding="async" width="700" height="490" src="https://banggianongsan.com/wp-content/uploads/2025/05/quy-trinh-san-xuat-mat-mia-2.jpg" class="attachment-original size-original wp-post-image" alt="quy-trinh-san-xuat-mat-mia-2" srcset="https://banggianongsan.com/wp-content/uploads/2025/05/quy-trinh-san-xuat-mat-mia-2.jpg 700w, https://banggianongsan.com/wp-content/uploads/2025/05/quy-trinh-san-xuat-mat-mia-2-300x210.jpg 300w" sizes="auto, (max-width: 700px) 100vw, 700px" />							</a>
+  							<div class="overlay" style="background-color: rgba(0, 0, 0, 0.09)"></div>  							  						</div>
+  						  					</div>
+          					<div class="box-text show-on-hover hover-bounce text-center is-large" style="padding:10% 0px 10% 0px;">
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 class="post-title is-small ">
+						<a href="https://banggianongsan.com/quy-trinh-san-xuat-mat-mia/" class="plain">Quy trình sản xuất mật mía</a>
+					</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div><div class="col post-item" >
+			<div class="col-inner">
+				<div class="box box-normal box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" style="border-radius:4%;">
+  						<div class="image-overlay-remove image-cover" style="padding-top:75%;">
+							<a href="https://banggianongsan.com/gia-sau-va-nguoi-nong-dan/" class="plain" aria-label="Ảnh hưởng của giá sầu riêng đến người nông dân">
+								<img loading="lazy" decoding="async" width="700" height="400" src="https://banggianongsan.com/wp-content/uploads/2025/02/nong-san-sau-rieng-va-nong-dan.jpg" class="attachment-original size-original wp-post-image" alt="nong-san-sau-rieng-va-nong-dan" srcset="https://banggianongsan.com/wp-content/uploads/2025/02/nong-san-sau-rieng-va-nong-dan.jpg 700w, https://banggianongsan.com/wp-content/uploads/2025/02/nong-san-sau-rieng-va-nong-dan-300x171.jpg 300w" sizes="auto, (max-width: 700px) 100vw, 700px" />							</a>
+  							<div class="overlay" style="background-color: rgba(0, 0, 0, 0.09)"></div>  							  						</div>
+  						  					</div>
+          					<div class="box-text show-on-hover hover-bounce text-center is-large" style="padding:10% 0px 10% 0px;">
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 class="post-title is-small ">
+						<a href="https://banggianongsan.com/gia-sau-va-nguoi-nong-dan/" class="plain">Ảnh hưởng của giá sầu riêng đến người nông dân</a>
+					</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div><div class="col post-item" >
+			<div class="col-inner">
+				<div class="box box-normal box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" style="border-radius:4%;">
+  						<div class="image-overlay-remove image-cover" style="padding-top:75%;">
+							<a href="https://banggianongsan.com/phan-biet-dieu-ngon-va-dieu-kem-chat-luong/" class="plain" aria-label="Phân biệt điều ngon và điều kém chất lượng">
+								<img loading="lazy" decoding="async" width="640" height="426" src="https://banggianongsan.com/wp-content/uploads/2025/03/dieu-ngon-va-dieu-kem-chat-luong-2.jpg" class="attachment-original size-original wp-post-image" alt="dieu-ngon-va-dieu-kem-chat-luong-2" srcset="https://banggianongsan.com/wp-content/uploads/2025/03/dieu-ngon-va-dieu-kem-chat-luong-2.jpg 640w, https://banggianongsan.com/wp-content/uploads/2025/03/dieu-ngon-va-dieu-kem-chat-luong-2-300x200.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" />							</a>
+  							<div class="overlay" style="background-color: rgba(0, 0, 0, 0.09)"></div>  							  						</div>
+  						  					</div>
+          					<div class="box-text show-on-hover hover-bounce text-center is-large" style="padding:10% 0px 10% 0px;">
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 class="post-title is-small ">
+						<a href="https://banggianongsan.com/phan-biet-dieu-ngon-va-dieu-kem-chat-luong/" class="plain">Phân biệt điều ngon và điều kém chất lượng</a>
+					</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div><div class="col post-item" >
+			<div class="col-inner">
+				<div class="box box-normal box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" style="border-radius:4%;">
+  						<div class="image-overlay-remove image-cover" style="padding-top:75%;">
+							<a href="https://banggianongsan.com/nang-suat-sau-rieng-monthong/" class="plain" aria-label="Năng Suất Sầu Riêng Monthong Tại Việt Nam: Thực Trạng &#038; Giải Pháp Tăng Trưởng">
+								<img loading="lazy" decoding="async" width="700" height="490" src="https://banggianongsan.com/wp-content/uploads/2025/09/sau-rieng-monthong-tai-viet-nam-1.jpg" class="attachment-original size-original wp-post-image" alt="sau-rieng-monthong-tai-viet-nam-1" srcset="https://banggianongsan.com/wp-content/uploads/2025/09/sau-rieng-monthong-tai-viet-nam-1.jpg 700w, https://banggianongsan.com/wp-content/uploads/2025/09/sau-rieng-monthong-tai-viet-nam-1-300x210.jpg 300w" sizes="auto, (max-width: 700px) 100vw, 700px" />							</a>
+  							<div class="overlay" style="background-color: rgba(0, 0, 0, 0.09)"></div>  							  						</div>
+  						  					</div>
+          					<div class="box-text show-on-hover hover-bounce text-center is-large" style="padding:10% 0px 10% 0px;">
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 class="post-title is-small ">
+						<a href="https://banggianongsan.com/nang-suat-sau-rieng-monthong/" class="plain">Năng Suất Sầu Riêng Monthong Tại Việt Nam: Thực Trạng &#038; Giải Pháp Tăng Trưởng</a>
+					</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div><div class="col post-item" >
+			<div class="col-inner">
+				<div class="box box-normal box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" style="border-radius:4%;">
+  						<div class="image-overlay-remove image-cover" style="padding-top:75%;">
+							<a href="https://banggianongsan.com/phong-tru-sau-benh-hai-dieu/" class="plain" aria-label="Phòng Trừ Sâu Bệnh Hại Điều">
+								<img loading="lazy" decoding="async" width="700" height="400" src="https://banggianongsan.com/wp-content/uploads/2025/03/sau-benh-o-dieu-1.jpg" class="attachment-original size-original wp-post-image" alt="sau-benh-o-dieu (1)" srcset="https://banggianongsan.com/wp-content/uploads/2025/03/sau-benh-o-dieu-1.jpg 700w, https://banggianongsan.com/wp-content/uploads/2025/03/sau-benh-o-dieu-1-300x171.jpg 300w" sizes="auto, (max-width: 700px) 100vw, 700px" />							</a>
+  							<div class="overlay" style="background-color: rgba(0, 0, 0, 0.09)"></div>  							  						</div>
+  						  					</div>
+          					<div class="box-text show-on-hover hover-bounce text-center is-large" style="padding:10% 0px 10% 0px;">
+					<div class="box-text-inner blog-post-inner">
+
+					
+										<h5 class="post-title is-small ">
+						<a href="https://banggianongsan.com/phong-tru-sau-benh-hai-dieu/" class="plain">Phòng Trừ Sâu Bệnh Hại Điều</a>
+					</h5>
+										<div class="is-divider"></div>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div></div>
+		</div>
+
+		
+<style>
+#section_1820933935 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+</style>
+	</section>
+	
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
+    <script>
+        // Dữ liệu từ bảng
+        const tableData = [
+            {area: "Gia Lai", price: 159000, change: 1000},
+            {area: "Bà Rịa - Vũng Tàu", price: 159000, change: 1000},
+            {area: "Đắk Lắk", price: 161500, change: 1000},
+            {area: "Bình Phước", price: 159000, change: 1000},
+            {area: "Đắk Nông", price: 161500, change: 500}
+        ];
+        
+        // Trích xuất dữ liệu
+        const labels = tableData.map(item => item.area);
+        const prices = tableData.map(item => item.price);
+        const changes = tableData.map(item => item.change);
+        
+        // Màu sắc theme
+        const primaryBlue = '#003366';
+        const lightBlue = '#336699';
+        const themeColors = {
+            backgroundColor: [
+                'rgba(0, 51, 102, 0.7)',
+                'rgba(51, 102, 153, 0.7)'
+            ],
+            borderColor: [
+                'rgba(0, 51, 102, 1)',
+                'rgba(51, 102, 153, 1)'
+            ]
+        };
+        
+        // Tạo biểu đồ
+        document.addEventListener('DOMContentLoaded', function() {
+            const ctx = document.getElementById('priceChart').getContext('2d');
+            Chart.defaults.font.family = 'Arial, sans-serif';
+            Chart.defaults.color = primaryBlue;
+            
+            const myChart = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [
+                        {
+                            label: 'Giá trung bình (VNĐ)',
+                            data: prices,
+                            backgroundColor: themeColors.backgroundColor[0],
+                            borderColor: themeColors.borderColor[0],
+                            borderWidth: 1
+                        },
+                        {
+                            label: 'Thay đổi (VNĐ)',
+                            data: changes,
+                            backgroundColor: themeColors.backgroundColor[1],
+                            borderColor: themeColors.borderColor[1],
+                            borderWidth: 1
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            beginAtZero: false,
+                            grid: {
+                                color: 'rgba(0, 51, 102, 0.1)'
+                            },
+                            ticks: {
+                                color: primaryBlue
+                            },
+                            title: {
+                                display: true,
+                                text: 'Giá (VNĐ)',
+                                color: primaryBlue,
+                                font: {
+                                    weight: 'bold'
+                                }
+                            }
+                        },
+                        x: {
+                            grid: {
+                                color: 'rgba(0, 51, 102, 0.1)'
+                            },
+                            ticks: {
+                                color: primaryBlue
+                            },
+                            title: {
+                                display: true,
+                                text: 'Khu vực',
+                                color: primaryBlue,
+                                font: {
+                                    weight: 'bold'
+                                }
+                            }
+                        }
+                    },
+                    plugins: {
+                        title: {
+                            display: true,
+                            text: 'Biểu đồ giá tiêu theo khu vực',
+                            color: primaryBlue,
+                            font: {
+                                size: 16,
+                                weight: 'bold'
+                            },
+                            padding: {
+                                bottom: 20
+                            }
+                        },
+                        legend: {
+                            labels: {
+                                color: primaryBlue,
+                                font: {
+                                    weight: 'bold'
+                                }
+                            }
+                        },
+                        tooltip: {
+                            backgroundColor: 'rgba(0, 51, 102, 0.8)',
+                            titleColor: '#ffffff',
+                            bodyColor: '#ffffff',
+                            titleFont: {
+                                weight: 'bold'
+                            },
+                            callbacks: {
+                                label: function(context) {
+                                    let label = context.dataset.label || '';
+                                    if (label) {
+                                        label += ': ';
+                                    }
+                                    if (context.parsed.y !== null) {
+                                        label += new Intl.NumberFormat('vi-VN').format(context.parsed.y);
+                                    }
+                                    return label;
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        });
+    </script>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
+  <script>
+    (function() {
+      // Data from the table
+      const pepperData = [
+        { province: 'Đắk Lắk', area: 40000, yieldMin: 80000, yieldMax: 90000 },
+        { province: 'Đắk Nông', area: 30000, yieldMin: 60000, yieldMax: 70000 },
+        { province: 'Gia Lai', area: 15000, yieldMin: 30000, yieldMax: 35000 },
+        { province: 'Bình Phước', area: 13000, yieldMin: 25000, yieldMax: 30000 },
+        { province: 'Bà Rịa - VT', area: 7000, yieldMin: 15000, yieldMax: 20000 },
+        { province: 'Đồng Nai', area: 6000, yieldMin: 12000, yieldMax: 15000 }
+      ];
+      
+      document.addEventListener('DOMContentLoaded', function() {
+        const ctx = document.getElementById('pepperPieChart');
+        
+        if (!ctx) return;
+        
+        // Sort data by area in descending order
+        const sortedData = [...pepperData].sort((a, b) => b.area - a.area);
+        
+        // Prepare data for the chart
+        const provinces = sortedData.map(item => item.province);
+        const areas = sortedData.map(item => item.area);
+        
+        const totalArea = areas.reduce((sum, area) => sum + area, 0);
+        const areaPercentages = areas.map(area => ((area / totalArea) * 100).toFixed(1));
+        
+        // Create the pie chart
+        new Chart(ctx, {
+          type: 'doughnut', // Changed to doughnut for better mobile display
+          data: {
+            labels: provinces.map((province, index) => `${province} (${areaPercentages[index]}%)`),
+            datasets: [{
+              data: areas,
+              backgroundColor: [
+                '#0d47a1',
+                '#1565c0',
+                '#1976d2',
+                '#1e88e5',
+                '#2196f3',
+                '#42a5f5'
+              ],
+              borderColor: 'white',
+              borderWidth: 1
+            }]
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            layout: {
+              padding: 0
+            },
+            plugins: {
+              legend: {
+                position: 'bottom',
+                align: 'start',
+                labels: {
+                  boxWidth: 12,
+                  padding: 10,
+                  color: '#333',
+                  font: {
+                    size: 11
+                  }
+                }
+              },
+              tooltip: {
+                callbacks: {
+                  label: function(context) {
+                    const province = sortedData[context.dataIndex];
+                    return `${province.province}: ${province.area.toLocaleString()} ha (${areaPercentages[context.dataIndex]}%)`;
+                  },
+                  afterLabel: function(context) {
+                    const province = sortedData[context.dataIndex];
+                    return `SL: ${province.yieldMin.toLocaleString()}-${province.yieldMax.toLocaleString()} tấn/năm`;
+                  }
+                }
+              }
+            }
+          }
+        });
+      });
+    })();
+  </script>
+
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
+  <script>
+    (function() {
+      // Data from the table
+      const durianData = [
+        { region: 'Tây Nguyên', area: 51400, yield: 336400, areaPercent: 46.7, yieldPercent: 39.6 },
+        { region: 'ĐBSCL', area: 33000, yield: 372000, areaPercent: 29.9, yieldPercent: 43.8 },
+        { region: 'Đông Nam Bộ', area: 20800, yield: 122900, areaPercent: 18.9, yieldPercent: 14.5 },
+        { region: 'Duyên hải Nam Trung Bộ', area: 5000, yield: 17800, areaPercent: 4.2, yieldPercent: 2.1 }
+      ];
+      
+      document.addEventListener('DOMContentLoaded', function() {
+        const ctx = document.getElementById('durianBarChart');
+        
+        if (!ctx) return;
+        
+        // Sort data by area in descending order
+        const sortedData = [...durianData].sort((a, b) => b.area - a.area);
+        
+        // Prepare data for the chart
+        const regions = sortedData.map(item => item.region);
+        const areas = sortedData.map(item => item.area);
+        const yields = sortedData.map(item => item.yield);
+        
+        // Create the bar chart
+        new Chart(ctx, {
+          type: 'bar',
+          data: {
+            labels: regions,
+            datasets: [
+              {
+                label: 'Diện tích (ha)',
+                data: areas,
+                backgroundColor: '#0d47a1',
+                borderColor: '#0d47a1',
+                borderWidth: 1,
+                barPercentage: 0.5,
+                categoryPercentage: 0.7
+              },
+              {
+                label: 'Sản lượng (tấn/năm)',
+                data: yields,
+                backgroundColor: '#2196f3',
+                borderColor: '#2196f3',
+                borderWidth: 1,
+                barPercentage: 0.5,
+                categoryPercentage: 0.7
+              }
+            ]
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: true,
+            aspectRatio: 500/166,
+            indexAxis: 'y',
+            layout: {
+              padding: {
+                left: 5,
+                right: 10,
+                top: 5,
+                bottom: 5
+              }
+            },
+            scales: {
+              x: {
+                stacked: false,
+                display: false,
+                grid: {
+                  display: false
+                }
+              },
+              y: {
+                stacked: false,
+                grid: {
+                  display: false
+                },
+                ticks: {
+                  font: {
+                    size: 10
+                  }
+                }
+              }
+            },
+            plugins: {
+              legend: {
+                position: 'top',
+                align: 'center',
+                labels: {
+                  boxWidth: 8,
+                  padding: 5,
+                  font: {
+                    size: 9
+                  }
+                }
+              },
+              tooltip: {
+                callbacks: {
+                  label: function(context) {
+                    const item = sortedData[context.dataIndex];
+                    if (context.datasetIndex === 0) {
+                      return `Diện tích: ${item.area.toLocaleString()} ha (${item.areaPercent}%)`;
+                    } else {
+                      return `Sản lượng: ${item.yield.toLocaleString()} tấn/năm (${item.yieldPercent}%)`;
+                    }
+                  }
+                }
+              }
+            }
+          }
+        });
+      });
+    })();
+  </script>
+		
+</div>
+
+
+
+</main>
+
+<footer id="footer" class="footer-wrapper">
+
+		<section class="section footer_1 dark" id="section_2124104483">
+		<div class="bg section-bg fill bg-fill  " >
+
+			
+			<div class="section-bg-overlay absolute fill"></div>
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+
+<div class="row"  id="row-435643317">
+
+
+	<div id="col-1071486007" class="col medium-4 small-12 large-4"  >
+				<div class="col-inner"  >
+			
+			
+
+<h3>Tin tức</h3>
+
+<ul class="footer-menu--news">
+<li>Bài chuyên đề</li>
+<li>Thị trường cà phê</li>
+<li>Kiến thức thị trường</li>
+<li>Cà phê Việt Nam</li>
+<li>Hỏi đápt</li>
+<li>Mới cập nhật</li>
+</ul>
+
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-117607509" class="col medium-4 small-12 large-4"  >
+				<div class="col-inner"  >
+			
+			
+
+<h3>Bảng giá</h3>
+
+<ul class="footer-menu--tools">
+<li>Giá cà phê hôm nay</li>
+<li>Giá cà phê trực tuyến</li>
+<li>Giá tiêu hôm nay</li>
+<li>Giá tiêu trực tuyến</li>
+<li>Giá cao su trực tuyến</li>
+<li>Giá ca cao trực tuyến</li>
+<li>Giá vàng hôm nay</li>
+<li>Giá phân bón</li>
+<li>Tỷ giá ngoại tệ</li>
+</ul>
+
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-1436856524" class="col medium-4 small-12 large-4"  >
+				<div class="col-inner"  >
+			
+			
+
+<h3>Giới thiệu</h3>
+
+<ul class="ftmn--desktop-extend">
+<li><strong>Liên hệ</strong></li>
+<li><strong>Điều khoản sử dụng</strong></li>
+<li><strong>Sơ đồ Website</strong></li>
+<li><strong>Lưu trữ</strong></li>
+<li><strong>Quản trị</strong></li>
+</ul>
+
+<div class="social-icons share-icons share-row relative" ><a href="whatsapp://send?text=Trang%20ch%E1%BB%A7 - https://banggianongsan.com/" data-action="share/whatsapp/share" class="icon button circle is-outline tooltip whatsapp show-for-medium" title="Share on WhatsApp" aria-label="Share on WhatsApp" ><i class="icon-whatsapp" ></i></a><a href="https://www.facebook.com/sharer.php?u=https://banggianongsan.com/" data-label="Facebook" onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px'); return false;" rel="noopener noreferrer nofollow" target="_blank" class="icon button circle is-outline tooltip facebook" title="Share on Facebook" aria-label="Share on Facebook" ><i class="icon-facebook" ></i></a><a href="https://twitter.com/share?url=https://banggianongsan.com/" onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px'); return false;" rel="noopener noreferrer nofollow" target="_blank" class="icon button circle is-outline tooltip twitter" title="Share on Twitter" aria-label="Share on Twitter" ><i class="icon-twitter" ></i></a><a href="mailto:?subject=Trang%20ch%E1%BB%A7&body=Check%20this%20out%3A%20https%3A%2F%2Fbanggianongsan.com%2F" rel="nofollow" class="icon button circle is-outline tooltip email" title="Email to a Friend" aria-label="Email to a Friend" ><i class="icon-envelop" ></i></a><a href="https://pinterest.com/pin/create/button?url=https://banggianongsan.com/&media&description=Trang%20ch%E1%BB%A7" onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px'); return false;" rel="noopener noreferrer nofollow" target="_blank" class="icon button circle is-outline tooltip pinterest" title="Pin on Pinterest" aria-label="Pin on Pinterest" ><i class="icon-pinterest" ></i></a><a href="https://www.linkedin.com/shareArticle?mini=true&url=https://banggianongsan.com/&title=Trang%20ch%E1%BB%A7" onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px'); return false;" rel="noopener noreferrer nofollow" target="_blank" class="icon button circle is-outline tooltip linkedin" title="Share on LinkedIn" aria-label="Share on LinkedIn" ><i class="icon-linkedin" ></i></a></div>
+
+
+		</div>
+					</div>
+
+	
+
+</div>
+
+		</div>
+
+		
+<style>
+#section_2124104483 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: rgb(40, 40, 40);
+}
+#section_2124104483 .section-bg-overlay {
+  background-color: rgba(51, 51, 51, 0.953);
+}
+#section_2124104483 .section-bg.bg-loaded {
+  background-image: url(https://banggianongsan.com/wp-content/uploads/2024/07/960x0.webp);
+}
+</style>
+	</section>
+	
+<div class="absolute-footer dark medium-text-center small-text-center">
+  <div class="container clearfix">
+
+    
+    <div class="footer-primary pull-left">
+            <div class="copyright-footer">
+        Copyright 2025 © <strong>banggianongsan.com</strong>      </div>
+          </div>
+  </div>
+</div>
+
+<a href="#top" class="back-to-top button icon invert plain fixed bottom z-1 is-outline hide-for-medium circle" id="top-link" aria-label="Go to top"><i class="icon-angle-up" ></i></a>
+
+</footer>
+
+</div>
+
+<div id="main-menu" class="mobile-sidebar no-scrollbar mfp-hide">
+
+	
+	<div class="sidebar-menu no-scrollbar ">
+
+		
+					<ul class="nav nav-sidebar nav-vertical nav-uppercase" data-tab="1">
+				<li class="header-search-form search-form html relative has-icon">
+	<div class="header-search-form-wrapper">
+		<div class="searchform-wrapper ux-search-box relative form-flat is-normal"><form method="get" class="searchform" action="https://banggianongsan.com/" role="search">
+		<div class="flex-row relative">
+			<div class="flex-col flex-grow">
+	   	   <input type="search" class="search-field mb-0" name="s" value="" id="s" placeholder="Search&hellip;" />
+			</div>
+			<div class="flex-col">
+				<button type="submit" class="ux-search-submit submit-button secondary button icon mb-0" aria-label="Submit">
+					<i class="icon-search" ></i>				</button>
+			</div>
+		</div>
+    <div class="live-search-results text-left z-top"></div>
+</form>
+</div>	</div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-5 current_page_item menu-item-247"><a href="https://banggianongsan.com/" aria-current="page">Trang chủ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-249"><a href="https://banggianongsan.com/bang-gia-ca-phe/">Bảng giá cà phê</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-250"><a href="https://banggianongsan.com/bang-gia-sau-rieng/">Bảng giá sầu riêng</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-251"><a href="https://banggianongsan.com/bang-gia-tieu/">Bảng giá tiêu</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-312"><a href="https://banggianongsan.com/bang-gia-hat-dieu/">Bảng giá hạt điều</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-322"><a href="https://banggianongsan.com/bang-gia-ot/">Bảng giá ớt</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-336"><a href="https://banggianongsan.com/gia-khoai-lang/">Bảng giá khoai lang</a></li>
+WooCommerce not Found<li class="header-newsletter-item has-icon">
+
+  <a href="#header-newsletter-signup" class="tooltip" title="Sign up for Newsletter">
+
+    <i class="icon-envelop"></i>
+    <span class="header-newsletter-title">
+      Newsletter    </span>
+  </a>
+
+</li>
+<li class="html header-social-icons ml-0">
+	<div class="social-icons follow-icons" ><a href="http://url" target="_blank" rel="noopener noreferrer nofollow" data-label="Facebook" class="icon plain facebook tooltip" title="Follow on Facebook" aria-label="Follow on Facebook" ><i class="icon-facebook" ></i></a><a href="http://url" target="_blank" rel="noopener noreferrer nofollow" data-label="Instagram" class="icon plain instagram tooltip" title="Follow on Instagram" aria-label="Follow on Instagram" ><i class="icon-instagram" ></i></a><a href="http://url" data-label="Twitter" target="_blank" rel="noopener noreferrer nofollow" class="icon plain twitter tooltip" title="Follow on Twitter" aria-label="Follow on Twitter" ><i class="icon-twitter" ></i></a><a href="mailto:your@email" data-label="E-mail" target="_blank" rel="nofollow" class="icon plain email tooltip" title="Send us an email" aria-label="Send us an email" ><i class="icon-envelop" ></i></a></div></li>
+			</ul>
+		
+		
+	</div>
+
+	
+</div>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/flatsome-child\/*","\/wp-content\/themes\/flatsome\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<script type="text/javascript" src="https://banggianongsan.com/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.17.6" id="flatsome-live-search-js"></script>
+<script type="text/javascript" src="https://banggianongsan.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script type="text/javascript" id="flatsome-js-js-extra">
+/* <![CDATA[ */
+var flatsomeVars = {"theme":{"version":"3.17.6"},"ajaxurl":"https:\/\/banggianongsan.com\/wp-admin\/admin-ajax.php","rtl":"","sticky_height":"70","stickyHeaderHeight":"0","scrollPaddingTop":"0","assets_url":"https:\/\/banggianongsan.com\/wp-content\/themes\/flatsome\/assets\/","lightbox":{"close_markup":"<button title=\"%title%\" type=\"button\" class=\"mfp-close\"><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-x\"><line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"><\/line><line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"><\/line><\/svg><\/button>","close_btn_inside":false},"user":{"can_edit_pages":false},"i18n":{"mainMenu":"Main Menu","toggleButton":"Toggle"},"options":{"cookie_notice_version":"1","swatches_layout":false,"swatches_disable_deselect":false,"swatches_box_select_event":false,"swatches_box_behavior_selected":false,"swatches_box_update_urls":"1","swatches_box_reset":false,"swatches_box_reset_limited":false,"swatches_box_reset_extent":false,"swatches_box_reset_time":300,"search_result_latency":"0"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://banggianongsan.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=89ac940c4841291ea8d6" id="flatsome-js-js"></script>
+<!--[if IE]>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/intersection-observer-polyfill@0.1.0/dist/IntersectionObserver.js?ver=0.1.0" id="intersection-observer-polyfill-js"></script>
+<![endif]-->
+
+</body>
+</html>
+
+
+<!-- Page cached by LiteSpeed Cache 6.4.1 on 2025-10-26 00:31:27 -->
